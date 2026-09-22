@@ -1,15 +1,1 @@
-{
-  "send": "yes",
-  "date": "2026-09-23",
-  "song1": {
-    "artist": "Test Artist 1",
-    "title": "Test Song 1",
-    "youtube_url": "https://www.youtube.com/watch?v=O3pyCGnZzYA"
-  },
-  "song2": {
-    "artist": "Test Artist 2",
-    "title": "Test Song 2",
-    "youtube_url": "https://www.youtube.com/watch?v=aGCdLKXNF3w"
-  },
-  "message": "Hey Rob, listen to these two songs\n🎵 https://www.youtube.com/watch?v=O3pyCGnZzYA\n🎵 https://www.youtube.com/watch?v=aGCdLKXNF3w\nHope you enjoy them!"
-}
+{`n  "send": "yes",`n  "date": "2026-09-23",`n  "song1": {`n    "artist": "A Tribe Called Quest",`n    "title": "Can I Kick It?",`n    "youtube_url": "https://www.youtube.com/watch?v=O3pyCGnZzYA"`n  },`n  "song2": {`n    "artist": "Tears for Fears",`n    "title": "Everybody Wants to Rule the World",`n    "youtube_url": "https://www.youtube.com/watch?v=aGCdLKXNF3w"`n  },`n  "message": "Listen to these two songs\n🎵 https://www.youtube.com/watch?v=O3pyCGnZzYA\n🎵 https://www.youtube.com/watch?v=aGCdLKXNF3w\nHope you enjoy them!"`n}`n
