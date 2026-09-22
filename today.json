@@ -1,0 +1,15 @@
+{
+  "send": true,
+  "date": "2026-09-23",
+  "song1": {
+    "artist": "Test Artist 1",
+    "title": "Test Song 1",
+    "youtube_url": "https://www.youtube.com/watch?v=O3pyCGnZzYA"
+  },
+  "song2": {
+    "artist": "Test Artist 2",
+    "title": "Test Song 2",
+    "youtube_url": "https://www.youtube.com/watch?v=aGCdLKXNF3w"
+  },
+  "message": "Hey Rob, listen to these two songs\n🎵 https://www.youtube.com/watch?v=O3pyCGnZzYA\n🎵 https://www.youtube.com/watch?v=aGCdLKXNF3w\nHope you enjoy them!"
+}
