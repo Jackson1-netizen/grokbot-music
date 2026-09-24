@@ -1,17 +1,17 @@
 {
   "send": "yes",
-  "date": "2026-09-23",
+  "date": "2026-09-24",
   "songs": [
     {
-      "artist": "Naughty by Nature",
-      "title": "Hip Hop Hooray",
-      "youtube_url": "https://www.youtube.com/watch?v=hgdw3BsUfFE"
+      "artist": "House of Pain",
+      "title": "Jump Around",
+      "youtube_url": "https://www.youtube.com/watch?v=jrL_LzX5wv4"
     },
     {
-      "artist": "Whitney Houston",
-      "title": "I Wanna Dance with Somebody (Who Loves Me)",
-      "youtube_url": "https://www.youtube.com/watch?v=eH3giaIzONA"
+      "artist": "Cyndi Lauper",
+      "title": "Girls Just Want To Have Fun",
+      "youtube_url": "https://www.youtube.com/watch?v=PIb6AZdTr-A"
     }
   ],
-  "message": "Two fresh ones for tonight:\n🎵 https://www.youtube.com/watch?v=hgdw3BsUfFE\n🎵 https://www.youtube.com/watch?v=eH3giaIzONA"
+  "message": "A little Thursday mix for you:\n\ud83c\udfb5 https://www.youtube.com/watch?v=jrL_LzX5wv4\n\ud83c\udfb5 https://www.youtube.com/watch?v=PIb6AZdTr-A"
 }
