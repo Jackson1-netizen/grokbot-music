@@ -28,5 +28,20 @@
         "youtube_url": "https://www.youtube.com/watch?v=eH3giaIzONA"
       }
     ]
+  },
+  {
+    "date": "2026-09-24",
+    "songs": [
+      {
+        "artist": "House of Pain",
+        "title": "Jump Around",
+        "youtube_url": "https://www.youtube.com/watch?v=jrL_LzX5wv4"
+      },
+      {
+        "artist": "Cyndi Lauper",
+        "title": "Girls Just Want To Have Fun",
+        "youtube_url": "https://www.youtube.com/watch?v=PIb6AZdTr-A"
+      }
+    ]
   }
 ]
