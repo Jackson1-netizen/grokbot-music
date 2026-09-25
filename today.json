@@ -1,17 +1,17 @@
 {
   "send": "yes",
-  "date": "2026-09-24",
+  "date": "2026-09-25",
   "songs": [
     {
-      "artist": "House of Pain",
-      "title": "Jump Around",
-      "youtube_url": "https://www.youtube.com/watch?v=jrL_LzX5wv4"
+      "artist": "Alfred Hitchcock",
+      "title": "The 39 Steps (1935)",
+      "youtube_url": "https://www.youtube.com/watch?v=RmSdum4BMqI"
     },
     {
-      "artist": "Cyndi Lauper",
-      "title": "Girls Just Want To Have Fun",
-      "youtube_url": "https://www.youtube.com/watch?v=PIb6AZdTr-A"
+      "artist": "Stanley Donen",
+      "title": "Charade (1963)",
+      "youtube_url": "https://www.youtube.com/watch?v=dsY8kJp_-wA"
     }
   ],
-  "message": "A little Thursday mix for you:\n\ud83c\udfb5 https://www.youtube.com/watch?v=jrL_LzX5wv4\n\ud83c\udfb5 https://www.youtube.com/watch?v=PIb6AZdTr-A"
+  "message": "Two full movies for today:\n\ud83c\udfac https://www.youtube.com/watch?v=RmSdum4BMqI\n\ud83c\udfac https://www.youtube.com/watch?v=dsY8kJp_-wA"
 }
