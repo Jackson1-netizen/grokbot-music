@@ -98,5 +98,60 @@
         "youtube_url": "https://www.youtube.com/watch?v=uq-gYOrU8bA"
       }
     ]
+  },
+  {
+    "date": "2026-09-26",
+    "songs": [
+      {
+        "artist": "A Tribe Called Quest",
+        "title": "Can I Kick It?",
+        "youtube_url": "https://www.youtube.com/watch?v=O3pyCGnZzYA"
+      },
+      {
+        "artist": "Public Enemy",
+        "title": "Fight The Power",
+        "youtube_url": "https://www.youtube.com/watch?v=mmo3HFa2vjg"
+      },
+      {
+        "artist": "Coolio",
+        "title": "Gangsta's Paradise (feat. L.V.)",
+        "youtube_url": "https://www.youtube.com/watch?v=fPO76Jlnz6c"
+      },
+      {
+        "artist": "The Notorious B.I.G.",
+        "title": "Hypnotize",
+        "youtube_url": "https://www.youtube.com/watch?v=glEiPXAYE-U"
+      },
+      {
+        "artist": "Digable Planets",
+        "title": "Rebirth of Slick (Cool Like Dat)",
+        "youtube_url": "https://www.youtube.com/watch?v=cM4kqL13jGM"
+      },
+      {
+        "artist": "Prince",
+        "title": "Kiss",
+        "youtube_url": "https://www.youtube.com/watch?v=H9tEvfIsDyo"
+      },
+      {
+        "artist": "Earth, Wind & Fire",
+        "title": "September",
+        "youtube_url": "https://www.youtube.com/watch?v=Gs069dndIYk"
+      },
+      {
+        "artist": "Eurythmics",
+        "title": "Sweet Dreams (Are Made Of This)",
+        "youtube_url": "https://www.youtube.com/watch?v=qeMFqkcPYcg"
+      },
+      {
+        "artist": "Toto",
+        "title": "Africa",
+        "youtube_url": "https://www.youtube.com/watch?v=FTQbiNvZqaY"
+      },
+      {
+        "artist": "Daryl Hall & John Oates",
+        "title": "You Make My Dreams",
+        "youtube_url": "https://www.youtube.com/watch?v=EErSKhC0CZs"
+      }
+    ]
   }
 ]
