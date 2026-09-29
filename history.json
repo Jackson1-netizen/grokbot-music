@@ -263,5 +263,60 @@
         "youtube_url": "https://www.youtube.com/watch?v=BQ0mxQXmLsk"
       }
     ]
+  },
+  {
+    "date": "2026-09-29",
+    "songs": [
+      {
+        "artist": "Ice Spice",
+        "title": "In Ha Mood",
+        "youtube_url": "https://www.youtube.com/watch?v=RIJbCb1KrOk"
+      },
+      {
+        "artist": "Flo Milli",
+        "title": "Never Lose Me",
+        "youtube_url": "https://www.youtube.com/watch?v=z67xXk8aNIk"
+      },
+      {
+        "artist": "Missy Elliott",
+        "title": "Work It",
+        "youtube_url": "https://www.youtube.com/watch?v=cjIvu7e6Wq8"
+      },
+      {
+        "artist": "Cardi B",
+        "title": "I Like It",
+        "youtube_url": "https://www.youtube.com/watch?v=xTlNMmZKwpA"
+      },
+      {
+        "artist": "Latto",
+        "title": "Lottery",
+        "youtube_url": "https://www.youtube.com/watch?v=m8_8tMzmpTg"
+      },
+      {
+        "artist": "Miley Cyrus",
+        "title": "Adore You",
+        "youtube_url": "https://www.youtube.com/watch?v=W1tzURKYFNs"
+      },
+      {
+        "artist": "Britney Spears",
+        "title": "Toxic",
+        "youtube_url": "https://www.youtube.com/watch?v=LOZuxwVk7TU"
+      },
+      {
+        "artist": "Tate McRae",
+        "title": "greedy",
+        "youtube_url": "https://www.youtube.com/watch?v=To4SWGZkEPk"
+      },
+      {
+        "artist": "Dua Lipa",
+        "title": "Don't Start Now",
+        "youtube_url": "https://www.youtube.com/watch?v=oygrmJFKYZY"
+      },
+      {
+        "artist": "Rihanna",
+        "title": "Diamonds",
+        "youtube_url": "https://www.youtube.com/watch?v=lWA2pjMjpBs"
+      }
+    ]
   }
 ]
