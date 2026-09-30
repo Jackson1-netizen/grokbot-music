@@ -318,5 +318,60 @@
         "youtube_url": "https://www.youtube.com/watch?v=lWA2pjMjpBs"
       }
     ]
+  },
+  {
+    "date": "2026-09-30",
+    "songs": [
+      {
+        "artist": "Saweetie",
+        "title": "Best Friend",
+        "youtube_url": "https://www.youtube.com/watch?v=_xJUCsyMQes"
+      },
+      {
+        "artist": "Doja Cat",
+        "title": "Woman",
+        "youtube_url": "https://www.youtube.com/watch?v=yxW5yuzVi8w"
+      },
+      {
+        "artist": "Iggy Azalea",
+        "title": "Fancy",
+        "youtube_url": "https://www.youtube.com/watch?v=O-zpOMYRi0w"
+      },
+      {
+        "artist": "JT",
+        "title": "OKAY",
+        "youtube_url": "https://www.youtube.com/watch?v=lWxenIERJhg"
+      },
+      {
+        "artist": "Lil Nas X",
+        "title": "INDUSTRY BABY",
+        "youtube_url": "https://www.youtube.com/watch?v=UTHLKHL_whs"
+      },
+      {
+        "artist": "Beyoncé",
+        "title": "Single Ladies (Put a Ring on It)",
+        "youtube_url": "https://www.youtube.com/watch?v=4m1EFMoRFvY"
+      },
+      {
+        "artist": "Taylor Swift",
+        "title": "Anti-Hero",
+        "youtube_url": "https://www.youtube.com/watch?v=b1kbLwvqugk"
+      },
+      {
+        "artist": "Katy Perry",
+        "title": "Firework",
+        "youtube_url": "https://www.youtube.com/watch?v=QGJuMBdaqIw"
+      },
+      {
+        "artist": "Charli XCX",
+        "title": "360",
+        "youtube_url": "https://www.youtube.com/watch?v=WJW-VvmRKsE"
+      },
+      {
+        "artist": "SZA",
+        "title": "Kill Bill",
+        "youtube_url": "https://www.youtube.com/watch?v=MSRcC626prw"
+      }
+    ]
   }
 ]
