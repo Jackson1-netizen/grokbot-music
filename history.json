@@ -373,5 +373,60 @@
         "youtube_url": "https://www.youtube.com/watch?v=MSRcC626prw"
       }
     ]
+  },
+  {
+    "date": "2026-10-01",
+    "songs": [
+      {
+        "artist": "Cardi B",
+        "title": "Up",
+        "youtube_url": "https://www.youtube.com/watch?v=rCiBgLOcuKU"
+      },
+      {
+        "artist": "Nicki Minaj",
+        "title": "Starships",
+        "youtube_url": "https://www.youtube.com/watch?v=SeIJmciN8mo"
+      },
+      {
+        "artist": "Megan Thee Stallion",
+        "title": "Savage",
+        "youtube_url": "https://www.youtube.com/watch?v=lkQ6uHr0TQE"
+      },
+      {
+        "artist": "GloRilla",
+        "title": "Tomorrow 2",
+        "youtube_url": "https://www.youtube.com/watch?v=zwa7NzNBQig"
+      },
+      {
+        "artist": "Flo Milli",
+        "title": "Conceited",
+        "youtube_url": "https://www.youtube.com/watch?v=gBxUNRemnks"
+      },
+      {
+        "artist": "Miley Cyrus",
+        "title": "Flowers",
+        "youtube_url": "https://www.youtube.com/watch?v=G7KNmW9a75Y"
+      },
+      {
+        "artist": "Dua Lipa",
+        "title": "New Rules",
+        "youtube_url": "https://www.youtube.com/watch?v=k2qgadSvNyU"
+      },
+      {
+        "artist": "Ariana Grande",
+        "title": "7 rings",
+        "youtube_url": "https://www.youtube.com/watch?v=QYh6mYIJG2Y"
+      },
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "vampire",
+        "youtube_url": "https://www.youtube.com/watch?v=RlPNh_PBZb4"
+      },
+      {
+        "artist": "Sabrina Carpenter",
+        "title": "Nonsense",
+        "youtube_url": "https://www.youtube.com/watch?v=YcSP1ZUf1eQ"
+      }
+    ]
   }
 ]
