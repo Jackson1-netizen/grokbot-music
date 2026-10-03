@@ -483,5 +483,60 @@
         "youtube_url": "https://www.youtube.com/watch?v=cwZ1L_0QLjw"
       }
     ]
+  },
+  {
+    "date": "2026-10-03",
+    "songs": [
+      {
+        "artist": "Cardi B",
+        "title": "Money",
+        "youtube_url": "https://www.youtube.com/watch?v=zUOh09GoQgk"
+      },
+      {
+        "artist": "Nicki Minaj",
+        "title": "Super Freaky Girl",
+        "youtube_url": "https://www.youtube.com/watch?v=j5uAR9w7LBg"
+      },
+      {
+        "artist": "Saweetie",
+        "title": "Tap In",
+        "youtube_url": "https://www.youtube.com/watch?v=jUIrolORx6M"
+      },
+      {
+        "artist": "City Girls",
+        "title": "Careless",
+        "youtube_url": "https://www.youtube.com/watch?v=q_5rOcx07vU"
+      },
+      {
+        "artist": "Normani",
+        "title": "Motivation",
+        "youtube_url": "https://www.youtube.com/watch?v=FKXSh14svlQ"
+      },
+      {
+        "artist": "Miley Cyrus",
+        "title": "Midnight Sky",
+        "youtube_url": "https://www.youtube.com/watch?v=aS1no1myeTM"
+      },
+      {
+        "artist": "Ava Max",
+        "title": "Sweet but Psycho",
+        "youtube_url": "https://www.youtube.com/watch?v=WXBHCQYxwr0"
+      },
+      {
+        "artist": "Halsey",
+        "title": "Without Me",
+        "youtube_url": "https://www.youtube.com/watch?v=ZAfAud_M_mg"
+      },
+      {
+        "artist": "David Guetta & Bebe Rexha",
+        "title": "I'm Good (Blue)",
+        "youtube_url": "https://www.youtube.com/watch?v=90RLzVUuXe4"
+      },
+      {
+        "artist": "P!nk",
+        "title": "Raise Your Glass",
+        "youtube_url": "https://www.youtube.com/watch?v=XjVNlG5cZyQ"
+      }
+    ]
   }
 ]
