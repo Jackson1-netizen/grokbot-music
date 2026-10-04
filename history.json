@@ -538,5 +538,60 @@
         "youtube_url": "https://www.youtube.com/watch?v=XjVNlG5cZyQ"
       }
     ]
+  },
+  {
+    "date": "2026-10-04",
+    "songs": [
+      {
+        "artist": "Megan Thee Stallion",
+        "title": "Mamushi (feat. Yuki Chiba)",
+        "youtube_url": "https://www.youtube.com/watch?v=OdxSbc0ap-s"
+      },
+      {
+        "artist": "Ice Spice",
+        "title": "Deli",
+        "youtube_url": "https://www.youtube.com/watch?v=UqmUxkRPBS0"
+      },
+      {
+        "artist": "Doja Cat",
+        "title": "Kiss Me More (feat. SZA)",
+        "youtube_url": "https://www.youtube.com/watch?v=0EVVKs6DQLo"
+      },
+      {
+        "artist": "Lizzo",
+        "title": "Juice",
+        "youtube_url": "https://www.youtube.com/watch?v=XaCrQL_8eMY"
+      },
+      {
+        "artist": "GloRilla",
+        "title": "Yeah Glo!",
+        "youtube_url": "https://www.youtube.com/watch?v=voT9hOs6FZc"
+      },
+      {
+        "artist": "Sabrina Carpenter",
+        "title": "Please Please Please",
+        "youtube_url": "https://www.youtube.com/watch?v=cF1Na4AIecM"
+      },
+      {
+        "artist": "Dua Lipa",
+        "title": "Physical",
+        "youtube_url": "https://www.youtube.com/watch?v=9HDEHj2yzew"
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "Watermelon Sugar",
+        "youtube_url": "https://www.youtube.com/watch?v=E07s5ZYygMg"
+      },
+      {
+        "artist": "Ariana Grande",
+        "title": "positions",
+        "youtube_url": "https://www.youtube.com/watch?v=tcYodQoapMg"
+      },
+      {
+        "artist": "Tyla",
+        "title": "Water",
+        "youtube_url": "https://www.youtube.com/watch?v=XoiOOiuH8iI"
+      }
+    ]
   }
 ]
