@@ -648,5 +648,60 @@
         "youtube_url": "https://www.youtube.com/watch?v=ZmDBbnmKpqQ"
       }
     ]
+  },
+  {
+    "date": "2026-10-06",
+    "songs": [
+      {
+        "artist": "Lizzo",
+        "title": "Good As Hell",
+        "youtube_url": "https://www.youtube.com/watch?v=vuq-VAiW9kw"
+      },
+      {
+        "artist": "Doja Cat",
+        "title": "Need to Know",
+        "youtube_url": "https://www.youtube.com/watch?v=dI3xkL7qUAc"
+      },
+      {
+        "artist": "Lil Nas X",
+        "title": "MONTERO (Call Me By Your Name)",
+        "youtube_url": "https://www.youtube.com/watch?v=6swmTBVI83k"
+      },
+      {
+        "artist": "Beyoncé",
+        "title": "Crazy In Love (feat. JAY Z)",
+        "youtube_url": "https://www.youtube.com/watch?v=ViwtNLUqkMY"
+      },
+      {
+        "artist": "Ciara",
+        "title": "Level Up",
+        "youtube_url": "https://www.youtube.com/watch?v=Dh-ULbQmmF8"
+      },
+      {
+        "artist": "Nelly Furtado",
+        "title": "Promiscuous (feat. Timbaland)",
+        "youtube_url": "https://www.youtube.com/watch?v=0J3vgcE5i2o"
+      },
+      {
+        "artist": "Lady Gaga & Ariana Grande",
+        "title": "Rain On Me",
+        "youtube_url": "https://www.youtube.com/watch?v=AoAm4om0wTs"
+      },
+      {
+        "artist": "Taylor Swift",
+        "title": "Shake It Off",
+        "youtube_url": "https://www.youtube.com/watch?v=nfWlot6h_JM"
+      },
+      {
+        "artist": "Demi Lovato",
+        "title": "Sorry Not Sorry",
+        "youtube_url": "https://www.youtube.com/watch?v=-MsvER1dpjM"
+      },
+      {
+        "artist": "Selena Gomez",
+        "title": "Lose You To Love Me",
+        "youtube_url": "https://www.youtube.com/watch?v=zlJDTxahav0"
+      }
+    ]
   }
 ]
