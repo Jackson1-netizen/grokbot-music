@@ -703,5 +703,60 @@
         "youtube_url": "https://www.youtube.com/watch?v=zlJDTxahav0"
       }
     ]
+  },
+  {
+    "date": "2026-10-07",
+    "songs": [
+      {
+        "artist": "Jessie J, Ariana Grande & Nicki Minaj",
+        "title": "Bang Bang",
+        "youtube_url": "https://www.youtube.com/watch?v=0HDdjwpPM3Y"
+      },
+      {
+        "artist": "Doechii",
+        "title": "Anxiety",
+        "youtube_url": "https://www.youtube.com/watch?v=riCP9x31Kuk"
+      },
+      {
+        "artist": "Latto",
+        "title": "Big Mama",
+        "youtube_url": "https://www.youtube.com/watch?v=N79jE4q3b-M"
+      },
+      {
+        "artist": "Missy Elliott",
+        "title": "WTF (Where They From) (feat. Pharrell Williams)",
+        "youtube_url": "https://www.youtube.com/watch?v=KO_3Qgib6RQ"
+      },
+      {
+        "artist": "Gwen Stefani",
+        "title": "Hollaback Girl",
+        "youtube_url": "https://www.youtube.com/watch?v=Kgjkth6BRRY"
+      },
+      {
+        "artist": "Miley Cyrus",
+        "title": "The Climb",
+        "youtube_url": "https://www.youtube.com/watch?v=NG2zyeVRcbs"
+      },
+      {
+        "artist": "Kelly Clarkson",
+        "title": "Since U Been Gone",
+        "youtube_url": "https://www.youtube.com/watch?v=R7UrFYvl5TE"
+      },
+      {
+        "artist": "Christina Aguilera",
+        "title": "Beautiful",
+        "youtube_url": "https://www.youtube.com/watch?v=eAfyFTzZDMM"
+      },
+      {
+        "artist": "Sia",
+        "title": "Chandelier",
+        "youtube_url": "https://www.youtube.com/watch?v=2vjPBrBU-TM"
+      },
+      {
+        "artist": "Shakira",
+        "title": "Hips Don't Lie (feat. Wyclef Jean)",
+        "youtube_url": "https://www.youtube.com/watch?v=DUT5rEU6pqM"
+      }
+    ]
   }
 ]
