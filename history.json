@@ -868,5 +868,60 @@
         "youtube_url": "https://www.youtube.com/watch?v=Wmc8bQoL-J0"
       }
     ]
+  },
+  {
+    "date": "2026-10-10",
+    "songs": [
+      {
+        "artist": "Miley Cyrus",
+        "title": "Malibu",
+        "youtube_url": "https://www.youtube.com/watch?v=8j9zMok6two"
+      },
+      {
+        "artist": "Ariana Grande",
+        "title": "no tears left to cry",
+        "youtube_url": "https://www.youtube.com/watch?v=ffxKSjUwKdU"
+      },
+      {
+        "artist": "Rihanna",
+        "title": "Rude Boy",
+        "youtube_url": "https://www.youtube.com/watch?v=e82VE8UtW8A"
+      },
+      {
+        "artist": "Jessie J ft. B.o.B",
+        "title": "Price Tag",
+        "youtube_url": "https://www.youtube.com/watch?v=qMxX-QOV9tI"
+      },
+      {
+        "artist": "Katy Perry ft. Snoop Dogg",
+        "title": "California Gurls",
+        "youtube_url": "https://www.youtube.com/watch?v=F57P9C4SAW4"
+      },
+      {
+        "artist": "Beyoncé",
+        "title": "Halo",
+        "youtube_url": "https://www.youtube.com/watch?v=bnVUHWCynig"
+      },
+      {
+        "artist": "Dua Lipa",
+        "title": "Houdini",
+        "youtube_url": "https://www.youtube.com/watch?v=suAR1PYFNYA"
+      },
+      {
+        "artist": "The Black Eyed Peas",
+        "title": "I Gotta Feeling",
+        "youtube_url": "https://www.youtube.com/watch?v=uSD4vsh1zDA"
+      },
+      {
+        "artist": "Camila Cabello",
+        "title": "Never Be the Same",
+        "youtube_url": "https://www.youtube.com/watch?v=Ph54wQG8ynk"
+      },
+      {
+        "artist": "Kesha",
+        "title": "Praying",
+        "youtube_url": "https://www.youtube.com/watch?v=v-Dur3uXXCQ"
+      }
+    ]
   }
 ]
