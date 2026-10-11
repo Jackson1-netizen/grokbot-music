@@ -1,57 +1,17 @@
 {
   "send": "yes",
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "songs": [
     {
-      "artist": "Miley Cyrus",
-      "title": "Malibu",
-      "youtube_url": "https://www.youtube.com/watch?v=8j9zMok6two"
+      "artist": "Dean Francis",
+      "title": "Drown (2015)",
+      "youtube_url": "https://www.youtube.com/watch?v=OqI1O13aqm0"
     },
     {
-      "artist": "Ariana Grande",
-      "title": "no tears left to cry",
-      "youtube_url": "https://www.youtube.com/watch?v=ffxKSjUwKdU"
-    },
-    {
-      "artist": "Rihanna",
-      "title": "Rude Boy",
-      "youtube_url": "https://www.youtube.com/watch?v=e82VE8UtW8A"
-    },
-    {
-      "artist": "Jessie J ft. B.o.B",
-      "title": "Price Tag",
-      "youtube_url": "https://www.youtube.com/watch?v=qMxX-QOV9tI"
-    },
-    {
-      "artist": "Katy Perry ft. Snoop Dogg",
-      "title": "California Gurls",
-      "youtube_url": "https://www.youtube.com/watch?v=F57P9C4SAW4"
-    },
-    {
-      "artist": "Beyoncé",
-      "title": "Halo",
-      "youtube_url": "https://www.youtube.com/watch?v=bnVUHWCynig"
-    },
-    {
-      "artist": "Dua Lipa",
-      "title": "Houdini",
-      "youtube_url": "https://www.youtube.com/watch?v=suAR1PYFNYA"
-    },
-    {
-      "artist": "The Black Eyed Peas",
-      "title": "I Gotta Feeling",
-      "youtube_url": "https://www.youtube.com/watch?v=uSD4vsh1zDA"
-    },
-    {
-      "artist": "Camila Cabello",
-      "title": "Never Be the Same",
-      "youtube_url": "https://www.youtube.com/watch?v=Ph54wQG8ynk"
-    },
-    {
-      "artist": "Kesha",
-      "title": "Praying",
-      "youtube_url": "https://www.youtube.com/watch?v=v-Dur3uXXCQ"
+      "artist": "Jay Arnold",
+      "title": "Shoulder Dance (2023)",
+      "youtube_url": "https://www.youtube.com/watch?v=F1765cE2qwA"
     }
   ],
-  "message": "Saturday night playlist is here, ten feel-good bangers to turn the volume up 🔊\n🎵 https://www.youtube.com/watch?v=8j9zMok6two\n🎵 https://www.youtube.com/watch?v=ffxKSjUwKdU\n🎵 https://www.youtube.com/watch?v=e82VE8UtW8A\n🎵 https://www.youtube.com/watch?v=qMxX-QOV9tI\n🎵 https://www.youtube.com/watch?v=F57P9C4SAW4\n🎵 https://www.youtube.com/watch?v=bnVUHWCynig\n🎵 https://www.youtube.com/watch?v=suAR1PYFNYA\n🎵 https://www.youtube.com/watch?v=uSD4vsh1zDA\n🎵 https://www.youtube.com/watch?v=Ph54wQG8ynk\n🎵 https://www.youtube.com/watch?v=v-Dur3uXXCQ\nHave a great weekend ✨"
+  "message": "Two romances for your Sunday night, one full of heat and one full of longing 💕\n🎬 Drown (2015): https://www.youtube.com/watch?v=OqI1O13aqm0\n🎬 Shoulder Dance (2023): https://www.youtube.com/watch?v=F1765cE2qwA"
 }
