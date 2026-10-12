@@ -978,5 +978,60 @@
         "youtube_url": "https://www.youtube.com/watch?v=rywUS-ohqeE"
       }
     ]
+  },
+  {
+    "date": "2026-10-12",
+    "songs": [
+      {
+        "artist": "Doja Cat",
+        "title": "Agora Hills",
+        "youtube_url": "https://www.youtube.com/watch?v=0c66ksfigtU"
+      },
+      {
+        "artist": "Miley Cyrus",
+        "title": "We Can't Stop",
+        "youtube_url": "https://www.youtube.com/watch?v=LrUvu1mlWco"
+      },
+      {
+        "artist": "Megan Thee Stallion",
+        "title": "Captain Hook",
+        "youtube_url": "https://www.youtube.com/watch?v=n5LWsc-qCdA"
+      },
+      {
+        "artist": "Taylor Swift",
+        "title": "Blank Space",
+        "youtube_url": "https://www.youtube.com/watch?v=e-ORhEE9VVg"
+      },
+      {
+        "artist": "Iggy Azalea",
+        "title": "Work",
+        "youtube_url": "https://www.youtube.com/watch?v=_zR6ROjoOX0"
+      },
+      {
+        "artist": "Sabrina Carpenter",
+        "title": "Taste",
+        "youtube_url": "https://www.youtube.com/watch?v=KEG7b851Ric"
+      },
+      {
+        "artist": "Eve ft. Gwen Stefani",
+        "title": "Let Me Blow Ya Mind",
+        "youtube_url": "https://www.youtube.com/watch?v=Wt88GMJmVk0"
+      },
+      {
+        "artist": "Demi Lovato",
+        "title": "Heart Attack",
+        "youtube_url": "https://www.youtube.com/watch?v=AByfaYcOm4A"
+      },
+      {
+        "artist": "Ciara ft. Petey Pablo",
+        "title": "Goodies",
+        "youtube_url": "https://www.youtube.com/watch?v=YtC92pzp5vw"
+      },
+      {
+        "artist": "Lizzo",
+        "title": "2 Be Loved (Am I Ready)",
+        "youtube_url": "https://www.youtube.com/watch?v=krdQLzzAeZU"
+      }
+    ]
   }
 ]
