@@ -1033,5 +1033,60 @@
         "youtube_url": "https://www.youtube.com/watch?v=krdQLzzAeZU"
       }
     ]
+  },
+  {
+    "date": "2026-10-13",
+    "songs": [
+      {
+        "artist": "Cardi B ft. Kehlani",
+        "title": "Ring",
+        "youtube_url": "https://www.youtube.com/watch?v=kcRWyLMVrFM"
+      },
+      {
+        "artist": "Ice Spice & Nicki Minaj",
+        "title": "Princess Diana",
+        "youtube_url": "https://www.youtube.com/watch?v=gMq-I0dejjE"
+      },
+      {
+        "artist": "Latto",
+        "title": "Put It On Da Floor",
+        "youtube_url": "https://www.youtube.com/watch?v=D66AyMOVmzE"
+      },
+      {
+        "artist": "City Girls",
+        "title": "Twerkulator",
+        "youtube_url": "https://www.youtube.com/watch?v=62-iVogg5jA"
+      },
+      {
+        "artist": "Dua Lipa",
+        "title": "Break My Heart",
+        "youtube_url": "https://www.youtube.com/watch?v=Nj2U6rhnucI"
+      },
+      {
+        "artist": "P!nk",
+        "title": "So What",
+        "youtube_url": "https://www.youtube.com/watch?v=FJfFZqTlWrQ"
+      },
+      {
+        "artist": "Katy Perry",
+        "title": "Teenage Dream",
+        "youtube_url": "https://www.youtube.com/watch?v=98WtmW-lfeE"
+      },
+      {
+        "artist": "Beyoncé",
+        "title": "Formation",
+        "youtube_url": "https://www.youtube.com/watch?v=WDZJPJV__bQ"
+      },
+      {
+        "artist": "Lady Gaga",
+        "title": "Born This Way",
+        "youtube_url": "https://www.youtube.com/watch?v=wV1FrqwZyKw"
+      },
+      {
+        "artist": "Britney Spears",
+        "title": "Gimme More",
+        "youtube_url": "https://www.youtube.com/watch?v=elueA2rofoo"
+      }
+    ]
   }
 ]
