@@ -1088,5 +1088,60 @@
         "youtube_url": "https://www.youtube.com/watch?v=elueA2rofoo"
       }
     ]
+  },
+  {
+    "date": "2026-10-14",
+    "songs": [
+      {
+        "artist": "Megan Thee Stallion",
+        "title": "Thot Shit",
+        "youtube_url": "https://www.youtube.com/watch?v=KynkMn5Hv3Q"
+      },
+      {
+        "artist": "Flo Milli",
+        "title": "Beef FloMix",
+        "youtube_url": "https://www.youtube.com/watch?v=tD77ZpJrLuw"
+      },
+      {
+        "artist": "Missy Elliott",
+        "title": "Gossip Folks",
+        "youtube_url": "https://www.youtube.com/watch?v=kYKI8tAELXY"
+      },
+      {
+        "artist": "Fat Joe, Remy Ma ft. French Montana",
+        "title": "All The Way Up",
+        "youtube_url": "https://www.youtube.com/watch?v=y2ak_oBeC-I"
+      },
+      {
+        "artist": "GloRilla, Megan Thee Stallion",
+        "title": "Wanna Be",
+        "youtube_url": "https://www.youtube.com/watch?v=BT_83vSP1es"
+      },
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "deja vu",
+        "youtube_url": "https://www.youtube.com/watch?v=cii6ruuycQA"
+      },
+      {
+        "artist": "Ava Max",
+        "title": "Kings & Queens",
+        "youtube_url": "https://www.youtube.com/watch?v=jH1RNk8954Q"
+      },
+      {
+        "artist": "Chappell Roan",
+        "title": "Good Luck, Babe!",
+        "youtube_url": "https://www.youtube.com/watch?v=1RKqOmSkGgM"
+      },
+      {
+        "artist": "The Weeknd",
+        "title": "Save Your Tears",
+        "youtube_url": "https://www.youtube.com/watch?v=XXYlFuWEuKI"
+      },
+      {
+        "artist": "Billie Eilish",
+        "title": "Happier Than Ever",
+        "youtube_url": "https://www.youtube.com/watch?v=5GJWxDKyk3A"
+      }
+    ]
   }
 ]
