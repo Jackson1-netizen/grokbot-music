@@ -1198,5 +1198,60 @@
         "youtube_url": "https://www.youtube.com/watch?v=ij_0p_6qTss"
       }
     ]
+  },
+  {
+    "date": "2026-10-16",
+    "songs": [
+      {
+        "artist": "Nicki Minaj",
+        "title": "Anaconda",
+        "youtube_url": "https://www.youtube.com/watch?v=LDZX4ooRsWs"
+      },
+      {
+        "artist": "Latto",
+        "title": "Sunday Service",
+        "youtube_url": "https://www.youtube.com/watch?v=skTA4ZkRlyQ"
+      },
+      {
+        "artist": "Ariana Grande ft. Iggy Azalea",
+        "title": "Problem",
+        "youtube_url": "https://www.youtube.com/watch?v=iS1g8G_njx8"
+      },
+      {
+        "artist": "Taylor Swift ft. Kendrick Lamar",
+        "title": "Bad Blood",
+        "youtube_url": "https://www.youtube.com/watch?v=QcIy9NiNbmo"
+      },
+      {
+        "artist": "Beyoncé",
+        "title": "Run the World (Girls)",
+        "youtube_url": "https://www.youtube.com/watch?v=VBmMU_iwe6U"
+      },
+      {
+        "artist": "Katy Perry",
+        "title": "Wide Awake",
+        "youtube_url": "https://www.youtube.com/watch?v=k0BWlvnBmIE"
+      },
+      {
+        "artist": "Demi Lovato",
+        "title": "Cool for the Summer",
+        "youtube_url": "https://www.youtube.com/watch?v=il9nqWw9W3Y"
+      },
+      {
+        "artist": "Shakira",
+        "title": "She Wolf",
+        "youtube_url": "https://www.youtube.com/watch?v=booKP974B0k"
+      },
+      {
+        "artist": "Kesha",
+        "title": "Blow",
+        "youtube_url": "https://www.youtube.com/watch?v=CFWX0hWCbng"
+      },
+      {
+        "artist": "Rihanna",
+        "title": "Pon de Replay",
+        "youtube_url": "https://www.youtube.com/watch?v=oEauWw9ZGrA"
+      }
+    ]
   }
 ]
