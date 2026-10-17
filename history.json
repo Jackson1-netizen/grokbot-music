@@ -1253,5 +1253,60 @@
         "youtube_url": "https://www.youtube.com/watch?v=oEauWw9ZGrA"
       }
     ]
+  },
+  {
+    "date": "2026-10-17",
+    "songs": [
+      {
+        "artist": "Cardi B",
+        "title": "Enough (Miami)",
+        "youtube_url": "https://www.youtube.com/watch?v=narFtb5tdTQ"
+      },
+      {
+        "artist": "Miley Cyrus ft. Dua Lipa",
+        "title": "Prisoner",
+        "youtube_url": "https://www.youtube.com/watch?v=0ir1qkPXPVM"
+      },
+      {
+        "artist": "Megan Thee Stallion",
+        "title": "Plan B",
+        "youtube_url": "https://www.youtube.com/watch?v=qQuQ8zDxGh0"
+      },
+      {
+        "artist": "Selena Gomez",
+        "title": "Bad Liar",
+        "youtube_url": "https://www.youtube.com/watch?v=NZKXkD6EgBk"
+      },
+      {
+        "artist": "Doja Cat & Tyga",
+        "title": "Juicy",
+        "youtube_url": "https://www.youtube.com/watch?v=YIALlhlyqO4"
+      },
+      {
+        "artist": "Kelly Clarkson",
+        "title": "Because of You",
+        "youtube_url": "https://www.youtube.com/watch?v=Ra-Om7UMSJc"
+      },
+      {
+        "artist": "Saweetie ft. G-Eazy & Rich The Kid",
+        "title": "Up Now",
+        "youtube_url": "https://www.youtube.com/watch?v=h0ipGRw1Ev4"
+      },
+      {
+        "artist": "Nelly Furtado",
+        "title": "Maneater",
+        "youtube_url": "https://www.youtube.com/watch?v=PLolag3YSYU"
+      },
+      {
+        "artist": "Christina Aguilera",
+        "title": "Fighter",
+        "youtube_url": "https://www.youtube.com/watch?v=PstrAfoMKlc"
+      },
+      {
+        "artist": "Mark Ronson ft. Bruno Mars",
+        "title": "Uptown Funk",
+        "youtube_url": "https://www.youtube.com/watch?v=OPf0YbXqDm0"
+      }
+    ]
   }
 ]
