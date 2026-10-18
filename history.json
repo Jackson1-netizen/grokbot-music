@@ -1308,5 +1308,60 @@
         "youtube_url": "https://www.youtube.com/watch?v=OPf0YbXqDm0"
       }
     ]
+  },
+  {
+    "date": "2026-10-18",
+    "songs": [
+      {
+        "artist": "Missy Elliott",
+        "title": "Pass That Dutch",
+        "youtube_url": "https://www.youtube.com/watch?v=phmelzh0VJc"
+      },
+      {
+        "artist": "Lady Gaga ft. Beyoncé",
+        "title": "Telephone",
+        "youtube_url": "https://www.youtube.com/watch?v=EVBsypHzF3U"
+      },
+      {
+        "artist": "Ariana Grande",
+        "title": "Into You",
+        "youtube_url": "https://www.youtube.com/watch?v=1ekZEVeXwek"
+      },
+      {
+        "artist": "Nicki Minaj ft. Drake",
+        "title": "Moment 4 Life (Clean Version)",
+        "youtube_url": "https://www.youtube.com/watch?v=D7GW8TYCEG4"
+      },
+      {
+        "artist": "P!nk",
+        "title": "Try",
+        "youtube_url": "https://www.youtube.com/watch?v=yTCDVfMz15M"
+      },
+      {
+        "artist": "Dua Lipa",
+        "title": "Training Season",
+        "youtube_url": "https://www.youtube.com/watch?v=ZjBZ8MUnB0E"
+      },
+      {
+        "artist": "Eve",
+        "title": "Who's That Girl?",
+        "youtube_url": "https://www.youtube.com/watch?v=8N9PL3Iz3xc"
+      },
+      {
+        "artist": "Sabrina Carpenter",
+        "title": "Feather",
+        "youtube_url": "https://www.youtube.com/watch?v=kLbn61Z4LDI"
+      },
+      {
+        "artist": "Rihanna",
+        "title": "Don't Stop The Music",
+        "youtube_url": "https://www.youtube.com/watch?v=yd8jh9QYfEs"
+      },
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "get him back!",
+        "youtube_url": "https://www.youtube.com/watch?v=ZsJ-BHohXRI"
+      }
+    ]
   }
 ]
