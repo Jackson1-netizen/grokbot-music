@@ -1,57 +1,17 @@
 {
   "send": "yes",
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "songs": [
     {
-      "artist": "Fergie",
-      "title": "Big Girls Don't Cry (Personal)",
-      "youtube_url": "https://www.youtube.com/watch?v=agrXgrAgQ0U"
+      "artist": "Joel Lamangan",
+      "title": "Rainbow's Sunset (2018)",
+      "youtube_url": "https://www.youtube.com/watch?v=9me5XBdKqU4"
     },
     {
-      "artist": "Normani ft. Cardi B",
-      "title": "Wild Side",
-      "youtube_url": "https://www.youtube.com/watch?v=DFMEBquxeO8"
-    },
-    {
-      "artist": "Halsey",
-      "title": "Bad At Love",
-      "youtube_url": "https://www.youtube.com/watch?v=xdYFuCp3m9k"
-    },
-    {
-      "artist": "Megan Thee Stallion ft. DaBaby",
-      "title": "Cry Baby",
-      "youtube_url": "https://www.youtube.com/watch?v=AqaQsL-8I_M"
-    },
-    {
-      "artist": "Katy Perry",
-      "title": "Last Friday Night (T.G.I.F.)",
-      "youtube_url": "https://www.youtube.com/watch?v=KlyXNRrsk4A"
-    },
-    {
-      "artist": "Demi Lovato",
-      "title": "Confident",
-      "youtube_url": "https://www.youtube.com/watch?v=cwLRQn61oUY"
-    },
-    {
-      "artist": "Jennifer Lopez",
-      "title": "Get Right",
-      "youtube_url": "https://www.youtube.com/watch?v=1WIsnC-h1d0"
-    },
-    {
-      "artist": "Mark Ronson ft. Miley Cyrus",
-      "title": "Nothing Breaks Like a Heart",
-      "youtube_url": "https://www.youtube.com/watch?v=A9hcJgtnm6Q"
-    },
-    {
-      "artist": "Doja Cat",
-      "title": "Get Into It (Yuh)",
-      "youtube_url": "https://www.youtube.com/watch?v=9Ko-nEYJ1GE"
-    },
-    {
-      "artist": "Kelly Clarkson",
-      "title": "My Life Would Suck Without You",
-      "youtube_url": "https://www.youtube.com/watch?v=cRM70Jw7F4M"
+      "artist": "Wang Chao",
+      "title": "Looking for Rohmer (2018)",
+      "youtube_url": "https://www.youtube.com/watch?v=dWIwwyAVbrk"
     }
   ],
-  "message": "https://www.youtube.com/watch?v=agrXgrAgQ0U\nhttps://www.youtube.com/watch?v=DFMEBquxeO8\nhttps://www.youtube.com/watch?v=xdYFuCp3m9k\nhttps://www.youtube.com/watch?v=AqaQsL-8I_M\nhttps://www.youtube.com/watch?v=KlyXNRrsk4A\nhttps://www.youtube.com/watch?v=cwLRQn61oUY\nhttps://www.youtube.com/watch?v=1WIsnC-h1d0\nhttps://www.youtube.com/watch?v=A9hcJgtnm6Q\nhttps://www.youtube.com/watch?v=9Ko-nEYJ1GE\nhttps://www.youtube.com/watch?v=cRM70Jw7F4M"
+  "message": "https://www.youtube.com/watch?v=9me5XBdKqU4\nhttps://www.youtube.com/watch?v=dWIwwyAVbrk"
 }
