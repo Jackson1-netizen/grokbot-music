@@ -1418,5 +1418,60 @@
         "youtube_url": "https://www.youtube.com/watch?v=cRM70Jw7F4M"
       }
     ]
+  },
+  {
+    "date": "2026-10-20",
+    "songs": [
+      {
+        "artist": "Missy Elliott ft. Ludacris",
+        "title": "One Minute Man",
+        "youtube_url": "https://www.youtube.com/watch?v=XayUCLgxS5c"
+      },
+      {
+        "artist": "Ariana Grande ft. Nicki Minaj",
+        "title": "Side To Side",
+        "youtube_url": "https://www.youtube.com/watch?v=SXiSVQZLje8"
+      },
+      {
+        "artist": "Lady Gaga",
+        "title": "Alejandro",
+        "youtube_url": "https://www.youtube.com/watch?v=niqrrmev4mA"
+      },
+      {
+        "artist": "Nicki Minaj",
+        "title": "Your Love",
+        "youtube_url": "https://www.youtube.com/watch?v=pSFyrrhKj1Q"
+      },
+      {
+        "artist": "Ellie Goulding",
+        "title": "Burn",
+        "youtube_url": "https://www.youtube.com/watch?v=CGyEd0aKWZE"
+      },
+      {
+        "artist": "Taylor Swift",
+        "title": "Look What You Made Me Do",
+        "youtube_url": "https://www.youtube.com/watch?v=3tmd-ClpJxA"
+      },
+      {
+        "artist": "Bruno Mars",
+        "title": "Locked Out of Heaven",
+        "youtube_url": "https://www.youtube.com/watch?v=e-fA-gBCkj0"
+      },
+      {
+        "artist": "Anne-Marie",
+        "title": "2002",
+        "youtube_url": "https://www.youtube.com/watch?v=Il-an3K9pjg"
+      },
+      {
+        "artist": "Zara Larsson",
+        "title": "Lush Life",
+        "youtube_url": "https://www.youtube.com/watch?v=tD4HCZe-tew"
+      },
+      {
+        "artist": "Adele",
+        "title": "Hello",
+        "youtube_url": "https://www.youtube.com/watch?v=YQHsXMglC9A"
+      }
+    ]
   }
 ]

@@ -3,15 +3,55 @@
   "date": "2026-10-20",
   "songs": [
     {
-      "artist": "Joel Lamangan",
-      "title": "Rainbow's Sunset (2018)",
-      "youtube_url": "https://www.youtube.com/watch?v=9me5XBdKqU4"
+      "artist": "Missy Elliott ft. Ludacris",
+      "title": "One Minute Man",
+      "youtube_url": "https://www.youtube.com/watch?v=XayUCLgxS5c"
     },
     {
-      "artist": "Wang Chao",
-      "title": "Looking for Rohmer (2018)",
-      "youtube_url": "https://www.youtube.com/watch?v=dWIwwyAVbrk"
+      "artist": "Ariana Grande ft. Nicki Minaj",
+      "title": "Side To Side",
+      "youtube_url": "https://www.youtube.com/watch?v=SXiSVQZLje8"
+    },
+    {
+      "artist": "Lady Gaga",
+      "title": "Alejandro",
+      "youtube_url": "https://www.youtube.com/watch?v=niqrrmev4mA"
+    },
+    {
+      "artist": "Nicki Minaj",
+      "title": "Your Love",
+      "youtube_url": "https://www.youtube.com/watch?v=pSFyrrhKj1Q"
+    },
+    {
+      "artist": "Ellie Goulding",
+      "title": "Burn",
+      "youtube_url": "https://www.youtube.com/watch?v=CGyEd0aKWZE"
+    },
+    {
+      "artist": "Taylor Swift",
+      "title": "Look What You Made Me Do",
+      "youtube_url": "https://www.youtube.com/watch?v=3tmd-ClpJxA"
+    },
+    {
+      "artist": "Bruno Mars",
+      "title": "Locked Out of Heaven",
+      "youtube_url": "https://www.youtube.com/watch?v=e-fA-gBCkj0"
+    },
+    {
+      "artist": "Anne-Marie",
+      "title": "2002",
+      "youtube_url": "https://www.youtube.com/watch?v=Il-an3K9pjg"
+    },
+    {
+      "artist": "Zara Larsson",
+      "title": "Lush Life",
+      "youtube_url": "https://www.youtube.com/watch?v=tD4HCZe-tew"
+    },
+    {
+      "artist": "Adele",
+      "title": "Hello",
+      "youtube_url": "https://www.youtube.com/watch?v=YQHsXMglC9A"
     }
   ],
-  "message": "https://www.youtube.com/watch?v=9me5XBdKqU4\nhttps://www.youtube.com/watch?v=dWIwwyAVbrk"
+  "message": "https://www.youtube.com/watch?v=XayUCLgxS5c\nhttps://www.youtube.com/watch?v=SXiSVQZLje8\nhttps://www.youtube.com/watch?v=niqrrmev4mA\nhttps://www.youtube.com/watch?v=pSFyrrhKj1Q\nhttps://www.youtube.com/watch?v=CGyEd0aKWZE\nhttps://www.youtube.com/watch?v=3tmd-ClpJxA\nhttps://www.youtube.com/watch?v=e-fA-gBCkj0\nhttps://www.youtube.com/watch?v=Il-an3K9pjg\nhttps://www.youtube.com/watch?v=tD4HCZe-tew\nhttps://www.youtube.com/watch?v=YQHsXMglC9A"
 }
