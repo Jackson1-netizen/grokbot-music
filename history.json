@@ -1473,5 +1473,60 @@
         "youtube_url": "https://www.youtube.com/watch?v=YQHsXMglC9A"
       }
     ]
+  },
+  {
+    "date": "2026-10-21",
+    "songs": [
+      {
+        "artist": "Sia",
+        "title": "Cheap Thrills (Performance Edit)",
+        "youtube_url": "https://www.youtube.com/watch?v=31crA53Dgu0"
+      },
+      {
+        "artist": "Rihanna",
+        "title": "Where Have You Been",
+        "youtube_url": "https://www.youtube.com/watch?v=HBxt_v0WF6Y"
+      },
+      {
+        "artist": "Miley Cyrus",
+        "title": "Can't Be Tamed",
+        "youtube_url": "https://www.youtube.com/watch?v=sjSG6z_13-Q"
+      },
+      {
+        "artist": "Doechii",
+        "title": "DENIAL IS A RIVER",
+        "youtube_url": "https://www.youtube.com/watch?v=F0cdbR5ognY"
+      },
+      {
+        "artist": "GloRilla ft. Sexyy Red",
+        "title": "WHATCHU KNO ABOUT ME",
+        "youtube_url": "https://www.youtube.com/watch?v=Py9S2bD0RZQ"
+      },
+      {
+        "artist": "Shawn Mendes, Camila Cabello",
+        "title": "Señorita",
+        "youtube_url": "https://www.youtube.com/watch?v=Pkh8UtuejGw"
+      },
+      {
+        "artist": "Beyoncé",
+        "title": "Irreplaceable",
+        "youtube_url": "https://www.youtube.com/watch?v=2EwViQxSJJQ"
+      },
+      {
+        "artist": "Tate McRae",
+        "title": "you broke me first",
+        "youtube_url": "https://www.youtube.com/watch?v=AG-erEMhumc"
+      },
+      {
+        "artist": "Cardi B ft. Megan Thee Stallion",
+        "title": "Bongos",
+        "youtube_url": "https://www.youtube.com/watch?v=Ux1f1Q8Zxhk"
+      },
+      {
+        "artist": "Kesha",
+        "title": "We R Who We R",
+        "youtube_url": "https://www.youtube.com/watch?v=mXvmSaE0JXA"
+      }
+    ]
   }
 ]
