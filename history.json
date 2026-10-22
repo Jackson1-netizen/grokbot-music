@@ -1528,5 +1528,60 @@
         "youtube_url": "https://www.youtube.com/watch?v=mXvmSaE0JXA"
       }
     ]
+  },
+  {
+    "date": "2026-10-22",
+    "songs": [
+      {
+        "artist": "Iggy Azalea ft. T.I.",
+        "title": "Change Your Life",
+        "youtube_url": "https://www.youtube.com/watch?v=rre0sFHlfBc"
+      },
+      {
+        "artist": "Selena Gomez",
+        "title": "Hands To Myself",
+        "youtube_url": "https://www.youtube.com/watch?v=FMlcn-_jpWY"
+      },
+      {
+        "artist": "Doja Cat ft. Gucci Mane",
+        "title": "Like That",
+        "youtube_url": "https://www.youtube.com/watch?v=XEJLuJyxLDE"
+      },
+      {
+        "artist": "Ariana Grande",
+        "title": "Dangerous Woman",
+        "youtube_url": "https://www.youtube.com/watch?v=9WbCfHutDSE"
+      },
+      {
+        "artist": "Christina Aguilera",
+        "title": "Hurt",
+        "youtube_url": "https://www.youtube.com/watch?v=wwCykGDEp7M"
+      },
+      {
+        "artist": "Jessie J",
+        "title": "Domino",
+        "youtube_url": "https://www.youtube.com/watch?v=UJtB55MaoD0"
+      },
+      {
+        "artist": "Nicki Minaj",
+        "title": "Right Thru Me",
+        "youtube_url": "https://www.youtube.com/watch?v=5FJO6b8GL3M"
+      },
+      {
+        "artist": "Ava Max",
+        "title": "So Am I",
+        "youtube_url": "https://www.youtube.com/watch?v=SxGLPVvNjvY"
+      },
+      {
+        "artist": "Dua Lipa",
+        "title": "IDGAF",
+        "youtube_url": "https://www.youtube.com/watch?v=Mgfe5tIwOj0"
+      },
+      {
+        "artist": "Britney Spears",
+        "title": "Oops!...I Did It Again",
+        "youtube_url": "https://www.youtube.com/watch?v=CduA0TULnow"
+      }
+    ]
   }
 ]
