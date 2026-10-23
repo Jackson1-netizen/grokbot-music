@@ -3,15 +3,55 @@
   "date": "2026-10-23",
   "songs": [
     {
-      "artist": "Takeshi Yokoi",
-      "title": "Seven Days: Monday - Thursday (2015)",
-      "youtube_url": "https://www.youtube.com/watch?v=yPEK1iaZpZM"
+      "artist": "Saweetie ft. H.E.R.",
+      "title": "Closer",
+      "youtube_url": "https://www.youtube.com/watch?v=ALO5efsHHQA"
     },
     {
-      "artist": "Hikaru Okita",
-      "title": "Love Place: The Pattern of Happiness (2013)",
-      "youtube_url": "https://www.youtube.com/watch?v=zJJ4Bg9ChuE"
+      "artist": "Sabrina Carpenter",
+      "title": "Manchild",
+      "youtube_url": "https://www.youtube.com/watch?v=aSugSGCC12I"
+    },
+    {
+      "artist": "Miley Cyrus",
+      "title": "Slide Away",
+      "youtube_url": "https://www.youtube.com/watch?v=rrvFv6j3-sM"
+    },
+    {
+      "artist": "Kelly Clarkson",
+      "title": "Breakaway",
+      "youtube_url": "https://www.youtube.com/watch?v=c-3vPxKdj6o"
+    },
+    {
+      "artist": "Lady Gaga",
+      "title": "Abracadabra",
+      "youtube_url": "https://www.youtube.com/watch?v=vBynw9Isr28"
+    },
+    {
+      "artist": "Eve ft. Alicia Keys",
+      "title": "Gangsta Lovin'",
+      "youtube_url": "https://www.youtube.com/watch?v=aNI8XFEAyI0"
+    },
+    {
+      "artist": "Megan Thee Stallion ft. Young Thug",
+      "title": "Don't Stop",
+      "youtube_url": "https://www.youtube.com/watch?v=6iuwBio5EUA"
+    },
+    {
+      "artist": "Katy Perry",
+      "title": "Hot N Cold",
+      "youtube_url": "https://www.youtube.com/watch?v=kTHNpusq654"
+    },
+    {
+      "artist": "Camila Cabello",
+      "title": "Don't Go Yet",
+      "youtube_url": "https://www.youtube.com/watch?v=0Kx3sobEBFE"
+    },
+    {
+      "artist": "Lizzo ft. Cardi B",
+      "title": "Rumors",
+      "youtube_url": "https://www.youtube.com/watch?v=4P9XUrniiK4"
     }
   ],
-  "message": "https://www.youtube.com/watch?v=yPEK1iaZpZM\nhttps://www.youtube.com/watch?v=zJJ4Bg9ChuE"
+  "message": "https://www.youtube.com/watch?v=ALO5efsHHQA\nhttps://www.youtube.com/watch?v=aSugSGCC12I\nhttps://www.youtube.com/watch?v=rrvFv6j3-sM\nhttps://www.youtube.com/watch?v=c-3vPxKdj6o\nhttps://www.youtube.com/watch?v=vBynw9Isr28\nhttps://www.youtube.com/watch?v=aNI8XFEAyI0\nhttps://www.youtube.com/watch?v=6iuwBio5EUA\nhttps://www.youtube.com/watch?v=kTHNpusq654\nhttps://www.youtube.com/watch?v=0Kx3sobEBFE\nhttps://www.youtube.com/watch?v=4P9XUrniiK4"
 }
