@@ -1638,5 +1638,60 @@
         "youtube_url": "https://www.youtube.com/watch?v=4P9XUrniiK4"
       }
     ]
+  },
+  {
+    "date": "2026-10-24",
+    "songs": [
+      {
+        "artist": "Taylor Swift",
+        "title": "Style",
+        "youtube_url": "https://www.youtube.com/watch?v=-CmadmM5cOk"
+      },
+      {
+        "artist": "Ariana Grande ft. Zedd",
+        "title": "Break Free",
+        "youtube_url": "https://www.youtube.com/watch?v=L8eRzOYhLuw"
+      },
+      {
+        "artist": "Jennifer Lopez",
+        "title": "Jenny from the Block",
+        "youtube_url": "https://www.youtube.com/watch?v=dly6p4Fu5TE"
+      },
+      {
+        "artist": "Selena Gomez",
+        "title": "Good For You",
+        "youtube_url": "https://www.youtube.com/watch?v=1TsVjvEkc4s"
+      },
+      {
+        "artist": "Rihanna",
+        "title": "S&M",
+        "youtube_url": "https://www.youtube.com/watch?v=KdS6HFQ_LUc"
+      },
+      {
+        "artist": "Beyoncé",
+        "title": "Love On Top",
+        "youtube_url": "https://www.youtube.com/watch?v=Ob7vObnFUJc"
+      },
+      {
+        "artist": "Sia",
+        "title": "Elastic Heart",
+        "youtube_url": "https://www.youtube.com/watch?v=KWZGAExj-es"
+      },
+      {
+        "artist": "Calvin Harris, Dua Lipa",
+        "title": "One Kiss",
+        "youtube_url": "https://www.youtube.com/watch?v=DkeiKbqa02g"
+      },
+      {
+        "artist": "Christina Aguilera",
+        "title": "Candyman",
+        "youtube_url": "https://www.youtube.com/watch?v=-ScjucUV8v0"
+      },
+      {
+        "artist": "Fifth Harmony ft. Kid Ink",
+        "title": "Worth It",
+        "youtube_url": "https://www.youtube.com/watch?v=YBHQbu5rbdQ"
+      }
+    ]
   }
 ]
