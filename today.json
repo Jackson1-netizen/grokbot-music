@@ -1,57 +1,17 @@
 {
   "send": "yes",
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "songs": [
     {
-      "artist": "Ciara ft. Missy Elliott",
-      "title": "1, 2 Step",
-      "youtube_url": "https://www.youtube.com/watch?v=iBHNgV6_znU"
+      "artist": "Jem Garrard",
+      "title": "The Revival (2017)",
+      "youtube_url": "https://www.youtube.com/watch?v=7Z6Xj5UB9Js"
     },
     {
-      "artist": "Megan Thee Stallion",
-      "title": "HISS",
-      "youtube_url": "https://www.youtube.com/watch?v=XVgCLQ_JQfU"
-    },
-    {
-      "artist": "Lady Gaga, Bruno Mars",
-      "title": "Die With A Smile",
-      "youtube_url": "https://www.youtube.com/watch?v=kPa7bsKwL-c"
-    },
-    {
-      "artist": "Kesha",
-      "title": "Your Love Is My Drug",
-      "youtube_url": "https://www.youtube.com/watch?v=QR_qa3Ohwls"
-    },
-    {
-      "artist": "Ice Spice",
-      "title": "Munch (Feelin' U)",
-      "youtube_url": "https://www.youtube.com/watch?v=yF-NC3eRsqc"
-    },
-    {
-      "artist": "Mariah Carey",
-      "title": "Obsessed",
-      "youtube_url": "https://www.youtube.com/watch?v=H1Yt0xJKDY8"
-    },
-    {
-      "artist": "Miley Cyrus",
-      "title": "Mother's Daughter",
-      "youtube_url": "https://www.youtube.com/watch?v=7T2RonyJ_Ts"
-    },
-    {
-      "artist": "Katy Perry ft. Kanye West",
-      "title": "E.T.",
-      "youtube_url": "https://www.youtube.com/watch?v=t5Sd5c4o9UM"
-    },
-    {
-      "artist": "Cardi B ft. 21 Savage",
-      "title": "Bartier Cardi",
-      "youtube_url": "https://www.youtube.com/watch?v=hXnMSaK6C2w"
-    },
-    {
-      "artist": "Avril Lavigne",
-      "title": "Complicated",
-      "youtube_url": "https://www.youtube.com/watch?v=5NPBIwQyPWE"
+      "artist": "Patrick McGuinn",
+      "title": "Leather (2013)",
+      "youtube_url": "https://www.youtube.com/watch?v=W0dMb5At2QA"
     }
   ],
-  "message": "https://www.youtube.com/watch?v=iBHNgV6_znU\nhttps://www.youtube.com/watch?v=XVgCLQ_JQfU\nhttps://www.youtube.com/watch?v=kPa7bsKwL-c\nhttps://www.youtube.com/watch?v=QR_qa3Ohwls\nhttps://www.youtube.com/watch?v=yF-NC3eRsqc\nhttps://www.youtube.com/watch?v=H1Yt0xJKDY8\nhttps://www.youtube.com/watch?v=7T2RonyJ_Ts\nhttps://www.youtube.com/watch?v=t5Sd5c4o9UM\nhttps://www.youtube.com/watch?v=hXnMSaK6C2w\nhttps://www.youtube.com/watch?v=5NPBIwQyPWE"
+  "message": "https://www.youtube.com/watch?v=7Z6Xj5UB9Js\nhttps://www.youtube.com/watch?v=W0dMb5At2QA"
 }
