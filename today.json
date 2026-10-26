@@ -3,15 +3,55 @@
   "date": "2026-10-26",
   "songs": [
     {
-      "artist": "Jem Garrard",
-      "title": "The Revival (2017)",
-      "youtube_url": "https://www.youtube.com/watch?v=7Z6Xj5UB9Js"
+      "artist": "Dua Lipa",
+      "title": "Love Again",
+      "youtube_url": "https://www.youtube.com/watch?v=BC19kwABFwc"
     },
     {
-      "artist": "Patrick McGuinn",
-      "title": "Leather (2013)",
-      "youtube_url": "https://www.youtube.com/watch?v=W0dMb5At2QA"
+      "artist": "Doja Cat, The Weeknd",
+      "title": "You Right",
+      "youtube_url": "https://www.youtube.com/watch?v=JXgV1rXUoME"
+    },
+    {
+      "artist": "Rita Ora",
+      "title": "Anywhere",
+      "youtube_url": "https://www.youtube.com/watch?v=ksdAs4LBRq8"
+    },
+    {
+      "artist": "Coi Leray ft. Gunna",
+      "title": "Slide",
+      "youtube_url": "https://www.youtube.com/watch?v=k14gCusW9j4"
+    },
+    {
+      "artist": "Fergie",
+      "title": "Fergalicious",
+      "youtube_url": "https://www.youtube.com/watch?v=5T0utQ-XWGY"
+    },
+    {
+      "artist": "Ariana Grande",
+      "title": "yes, and?",
+      "youtube_url": "https://www.youtube.com/watch?v=eB6txyhHFG4"
+    },
+    {
+      "artist": "Little Mix",
+      "title": "Wings",
+      "youtube_url": "https://www.youtube.com/watch?v=cOQDsmEqVt8"
+    },
+    {
+      "artist": "Doechii",
+      "title": "NISSAN ALTIMA",
+      "youtube_url": "https://www.youtube.com/watch?v=iGbeZNqklic"
+    },
+    {
+      "artist": "Sam Smith, Kim Petras",
+      "title": "Unholy",
+      "youtube_url": "https://www.youtube.com/watch?v=Uq9gPaIzbe8"
+    },
+    {
+      "artist": "Britney Spears",
+      "title": "Hold It Against Me",
+      "youtube_url": "https://www.youtube.com/watch?v=-Edv8Onsrgg"
     }
   ],
-  "message": "https://www.youtube.com/watch?v=7Z6Xj5UB9Js\nhttps://www.youtube.com/watch?v=W0dMb5At2QA"
+  "message": "https://www.youtube.com/watch?v=BC19kwABFwc\nhttps://www.youtube.com/watch?v=JXgV1rXUoME\nhttps://www.youtube.com/watch?v=ksdAs4LBRq8\nhttps://www.youtube.com/watch?v=k14gCusW9j4\nhttps://www.youtube.com/watch?v=5T0utQ-XWGY\nhttps://www.youtube.com/watch?v=eB6txyhHFG4\nhttps://www.youtube.com/watch?v=cOQDsmEqVt8\nhttps://www.youtube.com/watch?v=iGbeZNqklic\nhttps://www.youtube.com/watch?v=Uq9gPaIzbe8\nhttps://www.youtube.com/watch?v=-Edv8Onsrgg"
 }
