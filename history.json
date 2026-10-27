@@ -1803,5 +1803,60 @@
         "youtube_url": "https://www.youtube.com/watch?v=-Edv8Onsrgg"
       }
     ]
+  },
+  {
+    "date": "2026-10-27",
+    "songs": [
+      {
+        "artist": "Rihanna",
+        "title": "Shut Up And Drive",
+        "youtube_url": "https://www.youtube.com/watch?v=up7pvPqNkuU"
+      },
+      {
+        "artist": "Nicki Minaj",
+        "title": "The Night Is Still Young",
+        "youtube_url": "https://www.youtube.com/watch?v=IvN5h9BE444"
+      },
+      {
+        "artist": "Lady Gaga",
+        "title": "Judas",
+        "youtube_url": "https://www.youtube.com/watch?v=wagn8Wrmzuc"
+      },
+      {
+        "artist": "Jennifer Lopez",
+        "title": "Ain't Your Mama",
+        "youtube_url": "https://www.youtube.com/watch?v=Pgmx7z49OEk"
+      },
+      {
+        "artist": "Katy Perry ft. Skip Marley",
+        "title": "Chained To The Rhythm",
+        "youtube_url": "https://www.youtube.com/watch?v=Um7pMggPnug"
+      },
+      {
+        "artist": "Iggy Azalea",
+        "title": "Bounce",
+        "youtube_url": "https://www.youtube.com/watch?v=cI1A405jBqg"
+      },
+      {
+        "artist": "P!nk",
+        "title": "What About Us",
+        "youtube_url": "https://www.youtube.com/watch?v=ClU3fctbGls"
+      },
+      {
+        "artist": "Latto",
+        "title": "Somebody",
+        "youtube_url": "https://www.youtube.com/watch?v=qB7kLilZWwg"
+      },
+      {
+        "artist": "Cardi B",
+        "title": "Imaginary Playerz",
+        "youtube_url": "https://www.youtube.com/watch?v=cg2MY3F2iAk"
+      },
+      {
+        "artist": "Miley Cyrus",
+        "title": "End of the World",
+        "youtube_url": "https://www.youtube.com/watch?v=CXBFU97X61I"
+      }
+    ]
   }
 ]
