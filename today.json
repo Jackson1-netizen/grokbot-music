@@ -3,15 +3,55 @@
   "date": "2026-10-28",
   "songs": [
     {
-      "artist": "Jon Garcia",
-      "title": "The Falls: Testament of Love (2013)",
-      "youtube_url": "https://www.youtube.com/watch?v=S_8lMRB1Gak"
+      "artist": "Ariana Grande",
+      "title": "we can't be friends (wait for your love)",
+      "youtube_url": "https://www.youtube.com/watch?v=KNtJGQkC-WI"
     },
     {
-      "artist": "Sergei Alexander",
-      "title": "Your Eyes on Me (2020)",
-      "youtube_url": "https://www.youtube.com/watch?v=akkNE8IC9kk"
+      "artist": "Dua Lipa",
+      "title": "Dance The Night",
+      "youtube_url": "https://www.youtube.com/watch?v=OiC1rgCPmUQ"
+    },
+    {
+      "artist": "Clean Bandit ft. Zara Larsson",
+      "title": "Symphony",
+      "youtube_url": "https://www.youtube.com/watch?v=aatr_2MstrI"
+    },
+    {
+      "artist": "Avril Lavigne",
+      "title": "What The Hell",
+      "youtube_url": "https://www.youtube.com/watch?v=tQmEd_UeeIk"
+    },
+    {
+      "artist": "The Pussycat Dolls ft. Snoop Dogg",
+      "title": "Buttons",
+      "youtube_url": "https://www.youtube.com/watch?v=VCLxJd1d84s"
+    },
+    {
+      "artist": "Taylor Swift",
+      "title": "...Ready For It?",
+      "youtube_url": "https://www.youtube.com/watch?v=wIft-t-MQuE"
+    },
+    {
+      "artist": "Sia",
+      "title": "The Greatest",
+      "youtube_url": "https://www.youtube.com/watch?v=GKSRyLdjsPA"
+    },
+    {
+      "artist": "Shakira",
+      "title": "Whenever, Wherever",
+      "youtube_url": "https://www.youtube.com/watch?v=weRHyjj34ZE"
+    },
+    {
+      "artist": "Nelly Furtado",
+      "title": "Say It Right",
+      "youtube_url": "https://www.youtube.com/watch?v=6JnGBs88sL0"
+    },
+    {
+      "artist": "Ellie Goulding",
+      "title": "Lights",
+      "youtube_url": "https://www.youtube.com/watch?v=0NKUpo_xKyQ"
     }
   ],
-  "message": "https://www.youtube.com/watch?v=S_8lMRB1Gak\nhttps://www.youtube.com/watch?v=akkNE8IC9kk"
+  "message": "https://www.youtube.com/watch?v=KNtJGQkC-WI\nhttps://www.youtube.com/watch?v=OiC1rgCPmUQ\nhttps://www.youtube.com/watch?v=aatr_2MstrI\nhttps://www.youtube.com/watch?v=tQmEd_UeeIk\nhttps://www.youtube.com/watch?v=VCLxJd1d84s\nhttps://www.youtube.com/watch?v=wIft-t-MQuE\nhttps://www.youtube.com/watch?v=GKSRyLdjsPA\nhttps://www.youtube.com/watch?v=weRHyjj34ZE\nhttps://www.youtube.com/watch?v=6JnGBs88sL0\nhttps://www.youtube.com/watch?v=0NKUpo_xKyQ"
 }

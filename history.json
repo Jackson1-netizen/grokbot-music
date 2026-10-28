@@ -1858,5 +1858,60 @@
         "youtube_url": "https://www.youtube.com/watch?v=CXBFU97X61I"
       }
     ]
+  },
+  {
+    "date": "2026-10-28",
+    "songs": [
+      {
+        "artist": "Ariana Grande",
+        "title": "we can't be friends (wait for your love)",
+        "youtube_url": "https://www.youtube.com/watch?v=KNtJGQkC-WI"
+      },
+      {
+        "artist": "Dua Lipa",
+        "title": "Dance The Night",
+        "youtube_url": "https://www.youtube.com/watch?v=OiC1rgCPmUQ"
+      },
+      {
+        "artist": "Clean Bandit ft. Zara Larsson",
+        "title": "Symphony",
+        "youtube_url": "https://www.youtube.com/watch?v=aatr_2MstrI"
+      },
+      {
+        "artist": "Avril Lavigne",
+        "title": "What The Hell",
+        "youtube_url": "https://www.youtube.com/watch?v=tQmEd_UeeIk"
+      },
+      {
+        "artist": "The Pussycat Dolls ft. Snoop Dogg",
+        "title": "Buttons",
+        "youtube_url": "https://www.youtube.com/watch?v=VCLxJd1d84s"
+      },
+      {
+        "artist": "Taylor Swift",
+        "title": "...Ready For It?",
+        "youtube_url": "https://www.youtube.com/watch?v=wIft-t-MQuE"
+      },
+      {
+        "artist": "Sia",
+        "title": "The Greatest",
+        "youtube_url": "https://www.youtube.com/watch?v=GKSRyLdjsPA"
+      },
+      {
+        "artist": "Shakira",
+        "title": "Whenever, Wherever",
+        "youtube_url": "https://www.youtube.com/watch?v=weRHyjj34ZE"
+      },
+      {
+        "artist": "Nelly Furtado",
+        "title": "Say It Right",
+        "youtube_url": "https://www.youtube.com/watch?v=6JnGBs88sL0"
+      },
+      {
+        "artist": "Ellie Goulding",
+        "title": "Lights",
+        "youtube_url": "https://www.youtube.com/watch?v=0NKUpo_xKyQ"
+      }
+    ]
   }
 ]
