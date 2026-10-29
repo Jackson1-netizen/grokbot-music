@@ -3,15 +3,55 @@
   "date": "2026-10-29",
   "songs": [
     {
-      "artist": "Papu Curotto",
-      "title": "Esteros (2016)",
-      "youtube_url": "https://www.youtube.com/watch?v=e8oHIwWvmXo"
+      "artist": "Jennifer Lopez",
+      "title": "Love Don't Cost A Thing",
+      "youtube_url": "https://www.youtube.com/watch?v=4kGvlESGvbs"
     },
     {
-      "artist": "Michael J. Saul",
-      "title": "The Surface (2014)",
-      "youtube_url": "https://www.youtube.com/watch?v=hNaAzQ41tD4"
+      "artist": "Ciara ft. Ludacris",
+      "title": "Ride",
+      "youtube_url": "https://www.youtube.com/watch?v=Lp6W4aK1sbs"
+    },
+    {
+      "artist": "DJ Snake ft. Selena Gomez, Ozuna, Cardi B",
+      "title": "Taki Taki",
+      "youtube_url": "https://www.youtube.com/watch?v=ixkoVwKQaJg"
+    },
+    {
+      "artist": "Fergie",
+      "title": "London Bridge (Oh Snap)",
+      "youtube_url": "https://www.youtube.com/watch?v=WD33ii01kXI"
+    },
+    {
+      "artist": "Katy Perry",
+      "title": "Part Of Me",
+      "youtube_url": "https://www.youtube.com/watch?v=uuwfgXD8qV8"
+    },
+    {
+      "artist": "Beyoncé",
+      "title": "Sweet Dreams",
+      "youtube_url": "https://www.youtube.com/watch?v=JlxByc0-V40"
+    },
+    {
+      "artist": "Kesha",
+      "title": "Take It Off",
+      "youtube_url": "https://www.youtube.com/watch?v=edP0L6LQzZE"
+    },
+    {
+      "artist": "Miley Cyrus",
+      "title": "Jaded",
+      "youtube_url": "https://www.youtube.com/watch?v=4q-Y6wt1h3k"
+    },
+    {
+      "artist": "Rihanna",
+      "title": "Disturbia",
+      "youtube_url": "https://www.youtube.com/watch?v=E1mU6h4Xdxc"
+    },
+    {
+      "artist": "Gwen Stefani ft. Eve",
+      "title": "Rich Girl",
+      "youtube_url": "https://www.youtube.com/watch?v=9rlNpWYQunY"
     }
   ],
-  "message": "https://www.youtube.com/watch?v=e8oHIwWvmXo\nhttps://www.youtube.com/watch?v=hNaAzQ41tD4"
+  "message": "https://www.youtube.com/watch?v=4kGvlESGvbs\nhttps://www.youtube.com/watch?v=Lp6W4aK1sbs\nhttps://www.youtube.com/watch?v=ixkoVwKQaJg\nhttps://www.youtube.com/watch?v=WD33ii01kXI\nhttps://www.youtube.com/watch?v=uuwfgXD8qV8\nhttps://www.youtube.com/watch?v=JlxByc0-V40\nhttps://www.youtube.com/watch?v=edP0L6LQzZE\nhttps://www.youtube.com/watch?v=4q-Y6wt1h3k\nhttps://www.youtube.com/watch?v=E1mU6h4Xdxc\nhttps://www.youtube.com/watch?v=9rlNpWYQunY"
 }

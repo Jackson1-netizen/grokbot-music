@@ -1913,5 +1913,60 @@
         "youtube_url": "https://www.youtube.com/watch?v=0NKUpo_xKyQ"
       }
     ]
+  },
+  {
+    "date": "2026-10-29",
+    "songs": [
+      {
+        "artist": "Jennifer Lopez",
+        "title": "Love Don't Cost A Thing",
+        "youtube_url": "https://www.youtube.com/watch?v=4kGvlESGvbs"
+      },
+      {
+        "artist": "Ciara ft. Ludacris",
+        "title": "Ride",
+        "youtube_url": "https://www.youtube.com/watch?v=Lp6W4aK1sbs"
+      },
+      {
+        "artist": "DJ Snake ft. Selena Gomez, Ozuna, Cardi B",
+        "title": "Taki Taki",
+        "youtube_url": "https://www.youtube.com/watch?v=ixkoVwKQaJg"
+      },
+      {
+        "artist": "Fergie",
+        "title": "London Bridge (Oh Snap)",
+        "youtube_url": "https://www.youtube.com/watch?v=WD33ii01kXI"
+      },
+      {
+        "artist": "Katy Perry",
+        "title": "Part Of Me",
+        "youtube_url": "https://www.youtube.com/watch?v=uuwfgXD8qV8"
+      },
+      {
+        "artist": "Beyoncé",
+        "title": "Sweet Dreams",
+        "youtube_url": "https://www.youtube.com/watch?v=JlxByc0-V40"
+      },
+      {
+        "artist": "Kesha",
+        "title": "Take It Off",
+        "youtube_url": "https://www.youtube.com/watch?v=edP0L6LQzZE"
+      },
+      {
+        "artist": "Miley Cyrus",
+        "title": "Jaded",
+        "youtube_url": "https://www.youtube.com/watch?v=4q-Y6wt1h3k"
+      },
+      {
+        "artist": "Rihanna",
+        "title": "Disturbia",
+        "youtube_url": "https://www.youtube.com/watch?v=E1mU6h4Xdxc"
+      },
+      {
+        "artist": "Gwen Stefani ft. Eve",
+        "title": "Rich Girl",
+        "youtube_url": "https://www.youtube.com/watch?v=9rlNpWYQunY"
+      }
+    ]
   }
 ]
