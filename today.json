@@ -3,15 +3,55 @@
   "date": "2026-10-31",
   "songs": [
     {
-      "artist": "Martín Deus",
-      "title": "My Best Friend (2018)",
-      "youtube_url": "https://www.youtube.com/watch?v=t4oHVzYabIE"
+      "artist": "Cardi B",
+      "title": "Like What (Freestyle)",
+      "youtube_url": "https://www.youtube.com/watch?v=GcNC7YnlhKc"
     },
     {
-      "artist": "D.M.W. Greer",
-      "title": "Burning Blue (2013)",
-      "youtube_url": "https://www.youtube.com/watch?v=bat8rCKZTGE"
+      "artist": "Olivia Rodrigo",
+      "title": "brutal",
+      "youtube_url": "https://www.youtube.com/watch?v=OGUy2UmRxJ0"
+    },
+    {
+      "artist": "Ava Max",
+      "title": "Torn",
+      "youtube_url": "https://www.youtube.com/watch?v=wBmWvvTV0P4"
+    },
+    {
+      "artist": "Lizzo",
+      "title": "Special",
+      "youtube_url": "https://www.youtube.com/watch?v=0ujjiNBQnmI"
+    },
+    {
+      "artist": "Miley Cyrus",
+      "title": "Angels Like You",
+      "youtube_url": "https://www.youtube.com/watch?v=Y0ORhLyJWuc"
+    },
+    {
+      "artist": "Megan Thee Stallion & Dua Lipa",
+      "title": "Sweetest Pie",
+      "youtube_url": "https://www.youtube.com/watch?v=K7JrX7PHGBE"
+    },
+    {
+      "artist": "Kelly Clarkson",
+      "title": "Mr. Know It All",
+      "youtube_url": "https://www.youtube.com/watch?v=0C_oNMH0GTk"
+    },
+    {
+      "artist": "Jessie J",
+      "title": "Flashlight",
+      "youtube_url": "https://www.youtube.com/watch?v=DzwkcbTQ7ZE"
+    },
+    {
+      "artist": "Tinashe",
+      "title": "Nasty",
+      "youtube_url": "https://www.youtube.com/watch?v=jrjESdPsLxE"
+    },
+    {
+      "artist": "Rita Ora",
+      "title": "Your Song",
+      "youtube_url": "https://www.youtube.com/watch?v=RsELrcVNzG0"
     }
   ],
-  "message": "https://www.youtube.com/watch?v=t4oHVzYabIE\nhttps://www.youtube.com/watch?v=bat8rCKZTGE"
+  "message": "https://www.youtube.com/watch?v=GcNC7YnlhKc\nhttps://www.youtube.com/watch?v=OGUy2UmRxJ0\nhttps://www.youtube.com/watch?v=wBmWvvTV0P4\nhttps://www.youtube.com/watch?v=0ujjiNBQnmI\nhttps://www.youtube.com/watch?v=Y0ORhLyJWuc\nhttps://www.youtube.com/watch?v=K7JrX7PHGBE\nhttps://www.youtube.com/watch?v=0C_oNMH0GTk\nhttps://www.youtube.com/watch?v=DzwkcbTQ7ZE\nhttps://www.youtube.com/watch?v=jrjESdPsLxE\nhttps://www.youtube.com/watch?v=RsELrcVNzG0"
 }
