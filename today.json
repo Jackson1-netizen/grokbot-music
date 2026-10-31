@@ -1,57 +1,17 @@
 {
   "send": "yes",
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "songs": [
     {
-      "artist": "Icona Pop ft. Charli XCX",
-      "title": "I Love It",
-      "youtube_url": "https://www.youtube.com/watch?v=UxxajLWwzqY"
+      "artist": "Martín Deus",
+      "title": "My Best Friend (2018)",
+      "youtube_url": "https://www.youtube.com/watch?v=t4oHVzYabIE"
     },
     {
-      "artist": "Lorde",
-      "title": "Royals",
-      "youtube_url": "https://www.youtube.com/watch?v=nlcIKh6sBtc"
-    },
-    {
-      "artist": "The Pussycat Dolls ft. Busta Rhymes",
-      "title": "Don't Cha",
-      "youtube_url": "https://www.youtube.com/watch?v=YNSxNsr4wmA"
-    },
-    {
-      "artist": "Ariana Grande",
-      "title": "God is a woman",
-      "youtube_url": "https://www.youtube.com/watch?v=kHLHSlExFis"
-    },
-    {
-      "artist": "Alicia Keys",
-      "title": "Girl On Fire",
-      "youtube_url": "https://www.youtube.com/watch?v=J91ti_MpdHA"
-    },
-    {
-      "artist": "Sam Smith",
-      "title": "Stay With Me",
-      "youtube_url": "https://www.youtube.com/watch?v=pB-5XG-DbAA"
-    },
-    {
-      "artist": "Chappell Roan",
-      "title": "HOT TO GO!",
-      "youtube_url": "https://www.youtube.com/watch?v=xaPNR-_Cfn0"
-    },
-    {
-      "artist": "Leona Lewis",
-      "title": "Bleeding Love",
-      "youtube_url": "https://www.youtube.com/watch?v=Vzo-EL_62fQ"
-    },
-    {
-      "artist": "Taylor Swift",
-      "title": "We Are Never Ever Getting Back Together",
-      "youtube_url": "https://www.youtube.com/watch?v=WA4iX5D9Z64"
-    },
-    {
-      "artist": "Britney Spears",
-      "title": "Till The World Ends",
-      "youtube_url": "https://www.youtube.com/watch?v=qzU9OrZlKb8"
+      "artist": "D.M.W. Greer",
+      "title": "Burning Blue (2013)",
+      "youtube_url": "https://www.youtube.com/watch?v=bat8rCKZTGE"
     }
   ],
-  "message": "https://www.youtube.com/watch?v=UxxajLWwzqY\nhttps://www.youtube.com/watch?v=nlcIKh6sBtc\nhttps://www.youtube.com/watch?v=YNSxNsr4wmA\nhttps://www.youtube.com/watch?v=kHLHSlExFis\nhttps://www.youtube.com/watch?v=J91ti_MpdHA\nhttps://www.youtube.com/watch?v=pB-5XG-DbAA\nhttps://www.youtube.com/watch?v=xaPNR-_Cfn0\nhttps://www.youtube.com/watch?v=Vzo-EL_62fQ\nhttps://www.youtube.com/watch?v=WA4iX5D9Z64\nhttps://www.youtube.com/watch?v=qzU9OrZlKb8"
+  "message": "https://www.youtube.com/watch?v=t4oHVzYabIE\nhttps://www.youtube.com/watch?v=bat8rCKZTGE"
 }
