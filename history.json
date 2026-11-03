@@ -2133,5 +2133,60 @@
         "youtube_url": "https://www.youtube.com/watch?v=g5qU7p7yOY8"
       }
     ]
+  },
+  {
+    "date": "2026-11-03",
+    "songs": [
+      {
+        "artist": "Jason Derulo",
+        "title": "Whatcha Say",
+        "youtube_url": "https://www.youtube.com/watch?v=pBI3lc18k8Q"
+      },
+      {
+        "artist": "Miley Cyrus",
+        "title": "Younger Now",
+        "youtube_url": "https://www.youtube.com/watch?v=-LX2kpeyp80"
+      },
+      {
+        "artist": "Billie Eilish",
+        "title": "What Was I Made For?",
+        "youtube_url": "https://www.youtube.com/watch?v=cW8VLC9nnTo"
+      },
+      {
+        "artist": "Tate McRae",
+        "title": "exes",
+        "youtube_url": "https://www.youtube.com/watch?v=YXt0Nw8xWh0"
+      },
+      {
+        "artist": "Nicki Minaj ft. Rihanna",
+        "title": "Fly",
+        "youtube_url": "https://www.youtube.com/watch?v=3n71KUiWn1I"
+      },
+      {
+        "artist": "Lil' Kim ft. Mr. Cheeks",
+        "title": "The Jump Off",
+        "youtube_url": "https://www.youtube.com/watch?v=37bRlLzE43E"
+      },
+      {
+        "artist": "Shawn Mendes",
+        "title": "Treat You Better",
+        "youtube_url": "https://www.youtube.com/watch?v=lY2yjAdbvdQ"
+      },
+      {
+        "artist": "Cardi B",
+        "title": "Press",
+        "youtube_url": "https://www.youtube.com/watch?v=cJc7xWJbwJw"
+      },
+      {
+        "artist": "Lewis Capaldi",
+        "title": "Someone You Loved",
+        "youtube_url": "https://www.youtube.com/watch?v=zABLecsR5UE"
+      },
+      {
+        "artist": "Pitbull ft. Ke$ha",
+        "title": "Timber",
+        "youtube_url": "https://www.youtube.com/watch?v=hHUbLv4ThOo"
+      }
+    ]
   }
 ]
