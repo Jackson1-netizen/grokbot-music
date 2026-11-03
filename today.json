@@ -1,57 +1,17 @@
 {
   "send": "yes",
-  "date": "2026-11-01",
+  "date": "2026-11-03",
   "songs": [
     {
-      "artist": "Lady Gaga",
-      "title": "LoveGame",
-      "youtube_url": "https://www.youtube.com/watch?v=1mB0tP1I-14"
+      "artist": "Anusorn Soisa-Ngim",
+      "title": "Present Perfect (2017)",
+      "youtube_url": "https://www.youtube.com/watch?v=UWR740cU6Vo"
     },
     {
-      "artist": "Britney Spears",
-      "title": "Stronger",
-      "youtube_url": "https://www.youtube.com/watch?v=AJWtLf4-WWs"
-    },
-    {
-      "artist": "Saweetie ft. Jhené Aiko",
-      "title": "Back to the Streets",
-      "youtube_url": "https://www.youtube.com/watch?v=n7JigFZ-iZQ"
-    },
-    {
-      "artist": "Selena Gomez & The Scene",
-      "title": "Love You Like A Love Song",
-      "youtube_url": "https://www.youtube.com/watch?v=EgT_us6AsDg"
-    },
-    {
-      "artist": "Doja Cat",
-      "title": "Boss B*tch",
-      "youtube_url": "https://www.youtube.com/watch?v=RsW66teC0BQ"
-    },
-    {
-      "artist": "Ed Sheeran",
-      "title": "Thinking Out Loud",
-      "youtube_url": "https://www.youtube.com/watch?v=lp-EO5I60KA"
-    },
-    {
-      "artist": "Carly Rae Jepsen",
-      "title": "Call Me Maybe",
-      "youtube_url": "https://www.youtube.com/watch?v=fWNaR-rxAic"
-    },
-    {
-      "artist": "Katy Perry",
-      "title": "This Is How We Do",
-      "youtube_url": "https://www.youtube.com/watch?v=7RMQksXpQSk"
-    },
-    {
-      "artist": "GloRilla",
-      "title": "Hollon",
-      "youtube_url": "https://www.youtube.com/watch?v=Uf8Uxgi1uwY"
-    },
-    {
-      "artist": "Ariana Grande & The Weeknd",
-      "title": "Love Me Harder",
-      "youtube_url": "https://www.youtube.com/watch?v=g5qU7p7yOY8"
+      "artist": "Brian Jordan Alvarez",
+      "title": "Everything Is Free (2017)",
+      "youtube_url": "https://www.youtube.com/watch?v=qRlREL1Cs4c"
     }
   ],
-  "message": "https://www.youtube.com/watch?v=1mB0tP1I-14\nhttps://www.youtube.com/watch?v=AJWtLf4-WWs\nhttps://www.youtube.com/watch?v=n7JigFZ-iZQ\nhttps://www.youtube.com/watch?v=EgT_us6AsDg\nhttps://www.youtube.com/watch?v=RsW66teC0BQ\nhttps://www.youtube.com/watch?v=lp-EO5I60KA\nhttps://www.youtube.com/watch?v=fWNaR-rxAic\nhttps://www.youtube.com/watch?v=7RMQksXpQSk\nhttps://www.youtube.com/watch?v=Uf8Uxgi1uwY\nhttps://www.youtube.com/watch?v=g5qU7p7yOY8"
+  "message": "https://www.youtube.com/watch?v=UWR740cU6Vo\nhttps://www.youtube.com/watch?v=qRlREL1Cs4c"
 }
