@@ -3,15 +3,55 @@
   "date": "2026-11-04",
   "songs": [
     {
-      "artist": "Patatarapol Wanathananont",
-      "title": "Feel Good to Say Goodbye (2015)",
-      "youtube_url": "https://www.youtube.com/watch?v=vi_CzxfMvxE"
+      "artist": "Megan Thee Stallion",
+      "title": "Cobra",
+      "youtube_url": "https://www.youtube.com/watch?v=DOZNRoL0310"
     },
     {
-      "artist": "Sathanapong Limwongthong",
-      "title": "Sweet Boy (Sweet Student Boy) (2016)",
-      "youtube_url": "https://www.youtube.com/watch?v=gvOXK5avwys"
+      "artist": "Kelly Clarkson",
+      "title": "Piece by Piece",
+      "youtube_url": "https://www.youtube.com/watch?v=LqCqYP7hDWI"
+    },
+    {
+      "artist": "Tyla",
+      "title": "Truth or Dare",
+      "youtube_url": "https://www.youtube.com/watch?v=UKpz-I9EV84"
+    },
+    {
+      "artist": "Sam Smith",
+      "title": "Too Good At Goodbyes",
+      "youtube_url": "https://www.youtube.com/watch?v=J_ub7Etch2U"
+    },
+    {
+      "artist": "Demi Lovato",
+      "title": "Skyscraper",
+      "youtube_url": "https://www.youtube.com/watch?v=r_8ydghbGSg"
+    },
+    {
+      "artist": "Dua Lipa",
+      "title": "Illusion",
+      "youtube_url": "https://www.youtube.com/watch?v=a9cyG_yfh1k"
+    },
+    {
+      "artist": "Flo Milli",
+      "title": "Roaring 20s",
+      "youtube_url": "https://www.youtube.com/watch?v=4DUj_Jrq1hs"
+    },
+    {
+      "artist": "Selena Gomez & Rema",
+      "title": "Calm Down",
+      "youtube_url": "https://www.youtube.com/watch?v=WcIcVapfqXw"
+    },
+    {
+      "artist": "Lady Gaga & Bradley Cooper",
+      "title": "Shallow",
+      "youtube_url": "https://www.youtube.com/watch?v=bo_efYhYU2A"
+    },
+    {
+      "artist": "Lil Mama",
+      "title": "Lip Gloss",
+      "youtube_url": "https://www.youtube.com/watch?v=S5ck6TJQ5Ow"
     }
   ],
-  "message": "https://www.youtube.com/watch?v=vi_CzxfMvxE\nhttps://www.youtube.com/watch?v=gvOXK5avwys"
+  "message": "https://www.youtube.com/watch?v=DOZNRoL0310\nhttps://www.youtube.com/watch?v=LqCqYP7hDWI\nhttps://www.youtube.com/watch?v=UKpz-I9EV84\nhttps://www.youtube.com/watch?v=J_ub7Etch2U\nhttps://www.youtube.com/watch?v=r_8ydghbGSg\nhttps://www.youtube.com/watch?v=a9cyG_yfh1k\nhttps://www.youtube.com/watch?v=4DUj_Jrq1hs\nhttps://www.youtube.com/watch?v=WcIcVapfqXw\nhttps://www.youtube.com/watch?v=bo_efYhYU2A\nhttps://www.youtube.com/watch?v=S5ck6TJQ5Ow"
 }
