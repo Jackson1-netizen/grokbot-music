@@ -2243,5 +2243,60 @@
         "youtube_url": "https://www.youtube.com/watch?v=S5ck6TJQ5Ow"
       }
     ]
+  },
+  {
+    "date": "2026-11-05",
+    "songs": [
+      {
+        "artist": "Kehlani",
+        "title": "Gangsta",
+        "youtube_url": "https://www.youtube.com/watch?v=LAYgZEMMWxo"
+      },
+      {
+        "artist": "Charlie Puth",
+        "title": "Attention",
+        "youtube_url": "https://www.youtube.com/watch?v=nfs8NYg7yQM"
+      },
+      {
+        "artist": "Justin Bieber ft. Ludacris",
+        "title": "Baby",
+        "youtube_url": "https://www.youtube.com/watch?v=kffacxfA7G4"
+      },
+      {
+        "artist": "Benson Boone",
+        "title": "Beautiful Things",
+        "youtube_url": "https://www.youtube.com/watch?v=Oa_RSwwpPaA"
+      },
+      {
+        "artist": "ROSÉ & Bruno Mars",
+        "title": "APT.",
+        "youtube_url": "https://www.youtube.com/watch?v=ekr2nIex040"
+      },
+      {
+        "artist": "BIA",
+        "title": "Whole Lotta Money",
+        "youtube_url": "https://www.youtube.com/watch?v=XhpBInq5p8M"
+      },
+      {
+        "artist": "Lana Del Rey",
+        "title": "Summertime Sadness",
+        "youtube_url": "https://www.youtube.com/watch?v=TdrL3QxjyVw"
+      },
+      {
+        "artist": "Fetty Wap",
+        "title": "Trap Queen",
+        "youtube_url": "https://www.youtube.com/watch?v=bKq4L5vLtsY"
+      },
+      {
+        "artist": "Bebe Rexha",
+        "title": "I'm a Mess",
+        "youtube_url": "https://www.youtube.com/watch?v=LdH7aFjDzjI"
+      },
+      {
+        "artist": "Maroon 5",
+        "title": "Sugar",
+        "youtube_url": "https://www.youtube.com/watch?v=09R8_2nJtjg"
+      }
+    ]
   }
 ]
