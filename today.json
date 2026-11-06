@@ -1,57 +1,17 @@
 {
   "send": "yes",
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "songs": [
     {
-      "artist": "Kehlani",
-      "title": "Gangsta",
-      "youtube_url": "https://www.youtube.com/watch?v=LAYgZEMMWxo"
+      "artist": "Poj Arnon",
+      "title": "Tell the World That I Love You (2022)",
+      "youtube_url": "https://www.youtube.com/watch?v=3DutkmLM7Qw"
     },
     {
-      "artist": "Charlie Puth",
-      "title": "Attention",
-      "youtube_url": "https://www.youtube.com/watch?v=nfs8NYg7yQM"
-    },
-    {
-      "artist": "Justin Bieber ft. Ludacris",
-      "title": "Baby",
-      "youtube_url": "https://www.youtube.com/watch?v=kffacxfA7G4"
-    },
-    {
-      "artist": "Benson Boone",
-      "title": "Beautiful Things",
-      "youtube_url": "https://www.youtube.com/watch?v=Oa_RSwwpPaA"
-    },
-    {
-      "artist": "ROSÉ & Bruno Mars",
-      "title": "APT.",
-      "youtube_url": "https://www.youtube.com/watch?v=ekr2nIex040"
-    },
-    {
-      "artist": "BIA",
-      "title": "Whole Lotta Money",
-      "youtube_url": "https://www.youtube.com/watch?v=XhpBInq5p8M"
-    },
-    {
-      "artist": "Lana Del Rey",
-      "title": "Summertime Sadness",
-      "youtube_url": "https://www.youtube.com/watch?v=TdrL3QxjyVw"
-    },
-    {
-      "artist": "Fetty Wap",
-      "title": "Trap Queen",
-      "youtube_url": "https://www.youtube.com/watch?v=bKq4L5vLtsY"
-    },
-    {
-      "artist": "Bebe Rexha",
-      "title": "I'm a Mess",
-      "youtube_url": "https://www.youtube.com/watch?v=LdH7aFjDzjI"
-    },
-    {
-      "artist": "Maroon 5",
-      "title": "Sugar",
-      "youtube_url": "https://www.youtube.com/watch?v=09R8_2nJtjg"
+      "artist": "Emma Catalfamo",
+      "title": "On the Fringe of Wild (2021)",
+      "youtube_url": "https://www.youtube.com/watch?v=3KEejMMQX7Y"
     }
   ],
-  "message": "https://www.youtube.com/watch?v=LAYgZEMMWxo\nhttps://www.youtube.com/watch?v=nfs8NYg7yQM\nhttps://www.youtube.com/watch?v=kffacxfA7G4\nhttps://www.youtube.com/watch?v=Oa_RSwwpPaA\nhttps://www.youtube.com/watch?v=ekr2nIex040\nhttps://www.youtube.com/watch?v=XhpBInq5p8M\nhttps://www.youtube.com/watch?v=TdrL3QxjyVw\nhttps://www.youtube.com/watch?v=bKq4L5vLtsY\nhttps://www.youtube.com/watch?v=LdH7aFjDzjI\nhttps://www.youtube.com/watch?v=09R8_2nJtjg"
+  "message": "https://www.youtube.com/watch?v=3DutkmLM7Qw\nhttps://www.youtube.com/watch?v=3KEejMMQX7Y"
 }
