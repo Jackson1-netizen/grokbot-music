@@ -3,15 +3,55 @@
   "date": "2026-11-06",
   "songs": [
     {
-      "artist": "Poj Arnon",
-      "title": "Tell the World That I Love You (2022)",
-      "youtube_url": "https://www.youtube.com/watch?v=3DutkmLM7Qw"
+      "artist": "Adele",
+      "title": "Easy On Me",
+      "youtube_url": "https://www.youtube.com/watch?v=U3ASj1L6_sY"
     },
     {
-      "artist": "Emma Catalfamo",
-      "title": "On the Fringe of Wild (2021)",
-      "youtube_url": "https://www.youtube.com/watch?v=3KEejMMQX7Y"
+      "artist": "Saweetie",
+      "title": "Fast (Motion)",
+      "youtube_url": "https://www.youtube.com/watch?v=mkiA9tuJ-xM"
+    },
+    {
+      "artist": "Harry Styles",
+      "title": "Sign of the Times",
+      "youtube_url": "https://www.youtube.com/watch?v=qN4ooNx77u0"
+    },
+    {
+      "artist": "Chappell Roan",
+      "title": "Pink Pony Club",
+      "youtube_url": "https://www.youtube.com/watch?v=GR3Liudev18"
+    },
+    {
+      "artist": "Victoria Monét",
+      "title": "On My Mama",
+      "youtube_url": "https://www.youtube.com/watch?v=KdJ-Qwu3y4Y"
+    },
+    {
+      "artist": "Jonas Brothers",
+      "title": "Sucker",
+      "youtube_url": "https://www.youtube.com/watch?v=CnAmeh0-E-U"
+    },
+    {
+      "artist": "Justin Timberlake",
+      "title": "Can't Stop the Feeling!",
+      "youtube_url": "https://www.youtube.com/watch?v=ru0K8uYEZWw"
+    },
+    {
+      "artist": "City Girls ft. Usher",
+      "title": "Good Love",
+      "youtube_url": "https://www.youtube.com/watch?v=ruq-VkCAe-4"
+    },
+    {
+      "artist": "Ice Spice",
+      "title": "Think U The Shit (Fart)",
+      "youtube_url": "https://www.youtube.com/watch?v=Ou7c8Sg9YVg"
+    },
+    {
+      "artist": "Nicki Minaj",
+      "title": "Chun-Li",
+      "youtube_url": "https://www.youtube.com/watch?v=Wpm07-BGJnE"
     }
   ],
-  "message": "https://www.youtube.com/watch?v=3DutkmLM7Qw\nhttps://www.youtube.com/watch?v=3KEejMMQX7Y"
+  "message": "https://www.youtube.com/watch?v=U3ASj1L6_sY\nhttps://www.youtube.com/watch?v=mkiA9tuJ-xM\nhttps://www.youtube.com/watch?v=qN4ooNx77u0\nhttps://www.youtube.com/watch?v=GR3Liudev18\nhttps://www.youtube.com/watch?v=KdJ-Qwu3y4Y\nhttps://www.youtube.com/watch?v=CnAmeh0-E-U\nhttps://www.youtube.com/watch?v=ru0K8uYEZWw\nhttps://www.youtube.com/watch?v=ruq-VkCAe-4\nhttps://www.youtube.com/watch?v=Ou7c8Sg9YVg\nhttps://www.youtube.com/watch?v=Wpm07-BGJnE"
 }
