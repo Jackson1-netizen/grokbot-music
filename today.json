@@ -1,7 +1,17 @@
 {
-  "send": "no",
+  "send": "yes",
   "date": "2026-11-07",
-  "songs": [],
-  "message": "",
-  "reason": "Daily movies were not safely prepared."
+  "songs": [
+    {
+      "artist": "Gary Entin",
+      "title": "Geography Club (2013)",
+      "youtube_url": "https://www.youtube.com/watch?v=NziaNuLvnDA"
+    },
+    {
+      "artist": "J.C. Calciano",
+      "title": "Is It Just Me? (2010)",
+      "youtube_url": "https://www.youtube.com/watch?v=WrNAga81pBg"
+    }
+  ],
+  "message": "https://www.youtube.com/watch?v=NziaNuLvnDA\nhttps://www.youtube.com/watch?v=WrNAga81pBg"
 }
