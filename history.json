@@ -2353,5 +2353,60 @@
         "youtube_url": "https://www.youtube.com/watch?v=Wpm07-BGJnE"
       }
     ]
+  },
+  {
+    "date": "2026-11-07",
+    "songs": [
+      {
+        "artist": "Gwen Stefani ft. Akon",
+        "title": "The Sweet Escape",
+        "youtube_url": "https://www.youtube.com/watch?v=O0lf_fE3HwA"
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Shape of You",
+        "youtube_url": "https://www.youtube.com/watch?v=JGwWNGJdvx8"
+      },
+      {
+        "artist": "Chlöe",
+        "title": "Have Mercy",
+        "youtube_url": "https://www.youtube.com/watch?v=FfesqRkdSEk"
+      },
+      {
+        "artist": "Ariana Grande",
+        "title": "Focus",
+        "youtube_url": "https://www.youtube.com/watch?v=lf_wVfwpfp8"
+      },
+      {
+        "artist": "Cardi B ft. Megan Thee Stallion",
+        "title": "WAP",
+        "youtube_url": "https://www.youtube.com/watch?v=hsm4poTWjMs"
+      },
+      {
+        "artist": "Young M.A",
+        "title": "OOOUUU",
+        "youtube_url": "https://www.youtube.com/watch?v=gVf_4Ns3qLU"
+      },
+      {
+        "artist": "Bruno Mars",
+        "title": "That's What I Like",
+        "youtube_url": "https://www.youtube.com/watch?v=PMivT7MJ41M"
+      },
+      {
+        "artist": "Billie Eilish",
+        "title": "Birds of a Feather",
+        "youtube_url": "https://www.youtube.com/watch?v=V9PVRfjEBTI"
+      },
+      {
+        "artist": "Ashnikko",
+        "title": "Daisy",
+        "youtube_url": "https://www.youtube.com/watch?v=6i01tOMgBDU"
+      },
+      {
+        "artist": "Latto ft. Gucci Mane",
+        "title": "Muwop",
+        "youtube_url": "https://www.youtube.com/watch?v=meFxq3-mNEc"
+      }
+    ]
   }
 ]
