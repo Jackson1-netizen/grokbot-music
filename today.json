@@ -1,57 +1,17 @@
 {
   "send": "yes",
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "songs": [
     {
-      "artist": "Gwen Stefani ft. Akon",
-      "title": "The Sweet Escape",
-      "youtube_url": "https://www.youtube.com/watch?v=O0lf_fE3HwA"
+      "artist": "Jason Paul Laxamana",
+      "title": "The Third Party (2016)",
+      "youtube_url": "https://www.youtube.com/watch?v=Eb45S5urwZc"
     },
     {
-      "artist": "Ed Sheeran",
-      "title": "Shape of You",
-      "youtube_url": "https://www.youtube.com/watch?v=JGwWNGJdvx8"
-    },
-    {
-      "artist": "Chlöe",
-      "title": "Have Mercy",
-      "youtube_url": "https://www.youtube.com/watch?v=FfesqRkdSEk"
-    },
-    {
-      "artist": "Ariana Grande",
-      "title": "Focus",
-      "youtube_url": "https://www.youtube.com/watch?v=lf_wVfwpfp8"
-    },
-    {
-      "artist": "Cardi B ft. Megan Thee Stallion",
-      "title": "WAP",
-      "youtube_url": "https://www.youtube.com/watch?v=hsm4poTWjMs"
-    },
-    {
-      "artist": "Young M.A",
-      "title": "OOOUUU",
-      "youtube_url": "https://www.youtube.com/watch?v=gVf_4Ns3qLU"
-    },
-    {
-      "artist": "Bruno Mars",
-      "title": "That's What I Like",
-      "youtube_url": "https://www.youtube.com/watch?v=PMivT7MJ41M"
-    },
-    {
-      "artist": "Billie Eilish",
-      "title": "Birds of a Feather",
-      "youtube_url": "https://www.youtube.com/watch?v=V9PVRfjEBTI"
-    },
-    {
-      "artist": "Ashnikko",
-      "title": "Daisy",
-      "youtube_url": "https://www.youtube.com/watch?v=6i01tOMgBDU"
-    },
-    {
-      "artist": "Latto ft. Gucci Mane",
-      "title": "Muwop",
-      "youtube_url": "https://www.youtube.com/watch?v=meFxq3-mNEc"
+      "artist": "Ashton Pina",
+      "title": "Nana's Boys (2022)",
+      "youtube_url": "https://www.youtube.com/watch?v=JgkZc3nPN80"
     }
   ],
-  "message": "https://www.youtube.com/watch?v=O0lf_fE3HwA\nhttps://www.youtube.com/watch?v=JGwWNGJdvx8\nhttps://www.youtube.com/watch?v=FfesqRkdSEk\nhttps://www.youtube.com/watch?v=lf_wVfwpfp8\nhttps://www.youtube.com/watch?v=hsm4poTWjMs\nhttps://www.youtube.com/watch?v=gVf_4Ns3qLU\nhttps://www.youtube.com/watch?v=PMivT7MJ41M\nhttps://www.youtube.com/watch?v=V9PVRfjEBTI\nhttps://www.youtube.com/watch?v=6i01tOMgBDU\nhttps://www.youtube.com/watch?v=meFxq3-mNEc"
+  "message": "https://www.youtube.com/watch?v=Eb45S5urwZc\nhttps://www.youtube.com/watch?v=JgkZc3nPN80"
 }
