@@ -2408,5 +2408,60 @@
         "youtube_url": "https://www.youtube.com/watch?v=meFxq3-mNEc"
       }
     ]
+  },
+  {
+    "date": "2026-11-08",
+    "songs": [
+      {
+        "artist": "Pharrell Williams",
+        "title": "Happy",
+        "youtube_url": "https://www.youtube.com/watch?v=ZbZSe6N_BXs"
+      },
+      {
+        "artist": "Shakira",
+        "title": "Waka Waka (This Time for Africa)",
+        "youtube_url": "https://www.youtube.com/watch?v=pRpeEdMmmQ0"
+      },
+      {
+        "artist": "Usher ft. Pitbull",
+        "title": "DJ Got Us Fallin' In Love",
+        "youtube_url": "https://www.youtube.com/watch?v=C-dvTjK_07c"
+      },
+      {
+        "artist": "Macklemore & Ryan Lewis ft. Ray Dalton",
+        "title": "Can't Hold Us",
+        "youtube_url": "https://www.youtube.com/watch?v=2zNSgSzhBfM"
+      },
+      {
+        "artist": "Gotye ft. Kimbra",
+        "title": "Somebody That I Used To Know",
+        "youtube_url": "https://www.youtube.com/watch?v=8UVNT4wvIGY"
+      },
+      {
+        "artist": "Far East Movement ft. The Cataracs & DEV",
+        "title": "Like A G6",
+        "youtube_url": "https://www.youtube.com/watch?v=w4s6H4ku6ZY"
+      },
+      {
+        "artist": "Nelly",
+        "title": "Hot In Herre",
+        "youtube_url": "https://www.youtube.com/watch?v=GeZZr_p6vB8"
+      },
+      {
+        "artist": "LMFAO ft. Lauren Bennett & GoonRock",
+        "title": "Party Rock Anthem",
+        "youtube_url": "https://www.youtube.com/watch?v=KQ6zr6kCPj8"
+      },
+      {
+        "artist": "Lil Nas X ft. Billy Ray Cyrus",
+        "title": "Old Town Road",
+        "youtube_url": "https://www.youtube.com/watch?v=w2Ov5jzm3j8"
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "Counting Stars",
+        "youtube_url": "https://www.youtube.com/watch?v=hT_nvWreIhg"
+      }
+    ]
   }
 ]
