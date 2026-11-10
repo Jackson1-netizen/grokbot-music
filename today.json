@@ -1,57 +1,17 @@
 {
   "send": "yes",
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "songs": [
     {
-      "artist": "Bebe Rexha",
-      "title": "Meant to Be (feat. Florida Georgia Line)",
-      "youtube_url": "https://www.youtube.com/watch?v=zDo0H8Fm7d0"
+      "artist": "Steven Williford",
+      "title": "The Green (2011)",
+      "youtube_url": "https://www.youtube.com/watch?v=PYL00pbY2OE"
     },
     {
-      "artist": "Kehlani",
-      "title": "Nights Like This (feat. Ty Dolla $ign)",
-      "youtube_url": "https://www.youtube.com/watch?v=I99qCuWx1mI"
-    },
-    {
-      "artist": "Becky G",
-      "title": "Shower",
-      "youtube_url": "https://www.youtube.com/watch?v=50-_oTkmF5I"
-    },
-    {
-      "artist": "Tinashe ft. SchoolBoy Q",
-      "title": "2 On",
-      "youtube_url": "https://www.youtube.com/watch?v=-s7TCuCpB5c"
-    },
-    {
-      "artist": "Yung Miami",
-      "title": "Rap Freaks",
-      "youtube_url": "https://www.youtube.com/watch?v=5bF0V6bAwjc"
-    },
-    {
-      "artist": "Troye Sivan",
-      "title": "Rush",
-      "youtube_url": "https://www.youtube.com/watch?v=b53QJYP-lqY"
-    },
-    {
-      "artist": "Hailee Steinfeld & Grey",
-      "title": "Starving ft. Zedd",
-      "youtube_url": "https://www.youtube.com/watch?v=xwjwCFZpdns"
-    },
-    {
-      "artist": "Kali Uchis",
-      "title": "telepatía",
-      "youtube_url": "https://www.youtube.com/watch?v=bn_p95HbHoQ"
-    },
-    {
-      "artist": "Azealia Banks ft. Lazy Jay",
-      "title": "212",
-      "youtube_url": "https://www.youtube.com/watch?v=i3Jv9fNPjgk"
-    },
-    {
-      "artist": "Janelle Monáe",
-      "title": "Make Me Feel",
-      "youtube_url": "https://www.youtube.com/watch?v=tGRzz0oqgUE"
+      "artist": "Allan Ibanez & Dexter Hemedez",
+      "title": "Stay (2023)",
+      "youtube_url": "https://www.youtube.com/watch?v=8n48d4Nc8ZY"
     }
   ],
-  "message": "https://www.youtube.com/watch?v=zDo0H8Fm7d0\nhttps://www.youtube.com/watch?v=I99qCuWx1mI\nhttps://www.youtube.com/watch?v=50-_oTkmF5I\nhttps://www.youtube.com/watch?v=-s7TCuCpB5c\nhttps://www.youtube.com/watch?v=5bF0V6bAwjc\nhttps://www.youtube.com/watch?v=b53QJYP-lqY\nhttps://www.youtube.com/watch?v=xwjwCFZpdns\nhttps://www.youtube.com/watch?v=bn_p95HbHoQ\nhttps://www.youtube.com/watch?v=i3Jv9fNPjgk\nhttps://www.youtube.com/watch?v=tGRzz0oqgUE"
+  "message": "https://www.youtube.com/watch?v=PYL00pbY2OE\nhttps://www.youtube.com/watch?v=8n48d4Nc8ZY"
 }
