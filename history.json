@@ -2518,5 +2518,60 @@
         "youtube_url": "https://www.youtube.com/watch?v=tGRzz0oqgUE"
       }
     ]
+  },
+  {
+    "date": "2026-11-10",
+    "songs": [
+      {
+        "artist": "Anitta",
+        "title": "Envolver",
+        "youtube_url": "https://www.youtube.com/watch?v=hFCjGiawJi4"
+      },
+      {
+        "artist": "Saucy Santana ft. Latto",
+        "title": "Booty",
+        "youtube_url": "https://www.youtube.com/watch?v=hylG-CYTzBI"
+      },
+      {
+        "artist": "Miley Cyrus",
+        "title": "Who Owns My Heart",
+        "youtube_url": "https://www.youtube.com/watch?v=iVbQxC2c3-8"
+      },
+      {
+        "artist": "Ava Max",
+        "title": "Million Dollar Baby",
+        "youtube_url": "https://www.youtube.com/watch?v=WSX6ZRX4_-Q"
+      },
+      {
+        "artist": "Meghan Trainor",
+        "title": "NO",
+        "youtube_url": "https://www.youtube.com/watch?v=cMTAUr3Nm6I"
+      },
+      {
+        "artist": "Beyoncé",
+        "title": "Break My Soul (Official Visualizer)",
+        "youtube_url": "https://www.youtube.com/watch?v=iz1rIp1-b-Y"
+      },
+      {
+        "artist": "Lizzo ft. Missy Elliott",
+        "title": "Tempo",
+        "youtube_url": "https://www.youtube.com/watch?v=Srq1FqFPwj0"
+      },
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "traitor",
+        "youtube_url": "https://www.youtube.com/watch?v=CRrf3h9vhp8"
+      },
+      {
+        "artist": "Dua Lipa",
+        "title": "Be the One",
+        "youtube_url": "https://www.youtube.com/watch?v=-rey3m8SWQI"
+      },
+      {
+        "artist": "Camila Cabello ft. Ed Sheeran",
+        "title": "Bam Bam",
+        "youtube_url": "https://www.youtube.com/watch?v=-8VfKZCOo_I"
+      }
+    ]
   }
 ]
