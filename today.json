@@ -3,15 +3,55 @@
   "date": "2026-11-11",
   "songs": [
     {
-      "artist": "Jon Garcia",
-      "title": "The Falls (2012)",
-      "youtube_url": "https://www.youtube.com/watch?v=Wvt9EUDhDl4"
+      "artist": "Nelly ft. Kelly Rowland",
+      "title": "Dilemma",
+      "youtube_url": "https://www.youtube.com/watch?v=8WYHDfJDPDc"
     },
     {
-      "artist": "J.C. Calciano",
-      "title": "10 Years Plan (2015)",
-      "youtube_url": "https://www.youtube.com/watch?v=PjYeF765FRI"
+      "artist": "Kim Petras",
+      "title": "Heart to Break",
+      "youtube_url": "https://www.youtube.com/watch?v=5CPeHQHAQyo"
+    },
+    {
+      "artist": "Muni Long",
+      "title": "Hrs & Hrs",
+      "youtube_url": "https://www.youtube.com/watch?v=okfR_VIbXEQ"
+    },
+    {
+      "artist": "Zara Larsson & MNEK",
+      "title": "Never Forget You",
+      "youtube_url": "https://www.youtube.com/watch?v=GTyN-DB_v5M"
+    },
+    {
+      "artist": "Erica Banks",
+      "title": "Buss It",
+      "youtube_url": "https://www.youtube.com/watch?v=NOoHJ_ZXlJU"
+    },
+    {
+      "artist": "Baby Tate & Saweetie",
+      "title": "Hey, Mickey!",
+      "youtube_url": "https://www.youtube.com/watch?v=3aJsrdAvI4A"
+    },
+    {
+      "artist": "Tinashe",
+      "title": "Needs",
+      "youtube_url": "https://www.youtube.com/watch?v=1RFLY62LrH0"
+    },
+    {
+      "artist": "Rosalía",
+      "title": "Despechá",
+      "youtube_url": "https://www.youtube.com/watch?v=5g2hT4GmAGU"
+    },
+    {
+      "artist": "Tove Lo",
+      "title": "Habits (Stay High)",
+      "youtube_url": "https://www.youtube.com/watch?v=oh2LWWORoiM"
+    },
+    {
+      "artist": "Clean Bandit ft. Sean Paul & Anne-Marie",
+      "title": "Rockabye",
+      "youtube_url": "https://www.youtube.com/watch?v=papuvlVeZg8"
     }
   ],
-  "message": "https://www.youtube.com/watch?v=Wvt9EUDhDl4\nhttps://www.youtube.com/watch?v=PjYeF765FRI"
+  "message": "https://www.youtube.com/watch?v=8WYHDfJDPDc\nhttps://www.youtube.com/watch?v=5CPeHQHAQyo\nhttps://www.youtube.com/watch?v=okfR_VIbXEQ\nhttps://www.youtube.com/watch?v=GTyN-DB_v5M\nhttps://www.youtube.com/watch?v=NOoHJ_ZXlJU\nhttps://www.youtube.com/watch?v=3aJsrdAvI4A\nhttps://www.youtube.com/watch?v=1RFLY62LrH0\nhttps://www.youtube.com/watch?v=5g2hT4GmAGU\nhttps://www.youtube.com/watch?v=oh2LWWORoiM\nhttps://www.youtube.com/watch?v=papuvlVeZg8"
 }
