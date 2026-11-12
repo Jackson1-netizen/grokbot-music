@@ -2628,5 +2628,60 @@
         "youtube_url": "https://www.youtube.com/watch?v=papuvlVeZg8"
       }
     ]
+  },
+  {
+    "date": "2026-11-12",
+    "songs": [
+      {
+        "artist": "Tyla",
+        "title": "CHANEL",
+        "youtube_url": "https://www.youtube.com/watch?v=xiZUf98A1Ts"
+      },
+      {
+        "artist": "Madison Beer",
+        "title": "Selfish",
+        "youtube_url": "https://www.youtube.com/watch?v=978iHuFKfS4"
+      },
+      {
+        "artist": "Becky G, Bad Bunny",
+        "title": "Mayores",
+        "youtube_url": "https://www.youtube.com/watch?v=GMFewiplIbw"
+      },
+      {
+        "artist": "Cher Lloyd",
+        "title": "Want U Back",
+        "youtube_url": "https://www.youtube.com/watch?v=LPgvNlrBfb0"
+      },
+      {
+        "artist": "Flo Rida ft. T-Pain",
+        "title": "Low",
+        "youtube_url": "https://www.youtube.com/watch?v=U2waT9TxPU0"
+      },
+      {
+        "artist": "Natasha Bedingfield",
+        "title": "Pocketful of Sunshine",
+        "youtube_url": "https://www.youtube.com/watch?v=gte3BoXKwP0"
+      },
+      {
+        "artist": "City Girls ft. Cardi B",
+        "title": "Twerk",
+        "youtube_url": "https://www.youtube.com/watch?v=QryoOF5jEbc"
+      },
+      {
+        "artist": "Pitbull ft. Ne-Yo, Afrojack & Nayer",
+        "title": "Give Me Everything",
+        "youtube_url": "https://www.youtube.com/watch?v=EPo5wWmKEaI"
+      },
+      {
+        "artist": "Doechii",
+        "title": "Persuasive",
+        "youtube_url": "https://www.youtube.com/watch?v=JUBqJzLPjXE"
+      },
+      {
+        "artist": "Zedd ft. Foxes",
+        "title": "Clarity",
+        "youtube_url": "https://www.youtube.com/watch?v=IxxstCcJlsc"
+      }
+    ]
   }
 ]
