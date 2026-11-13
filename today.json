@@ -1,57 +1,17 @@
 {
   "send": "yes",
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "songs": [
     {
-      "artist": "Tyla",
-      "title": "CHANEL",
-      "youtube_url": "https://www.youtube.com/watch?v=xiZUf98A1Ts"
+      "artist": "Jay Dockendorf",
+      "title": "Naz & Maalik (2015)",
+      "youtube_url": "https://www.youtube.com/watch?v=hpqBXLfgKoY"
     },
     {
-      "artist": "Madison Beer",
-      "title": "Selfish",
-      "youtube_url": "https://www.youtube.com/watch?v=978iHuFKfS4"
-    },
-    {
-      "artist": "Becky G, Bad Bunny",
-      "title": "Mayores",
-      "youtube_url": "https://www.youtube.com/watch?v=GMFewiplIbw"
-    },
-    {
-      "artist": "Cher Lloyd",
-      "title": "Want U Back",
-      "youtube_url": "https://www.youtube.com/watch?v=LPgvNlrBfb0"
-    },
-    {
-      "artist": "Flo Rida ft. T-Pain",
-      "title": "Low",
-      "youtube_url": "https://www.youtube.com/watch?v=U2waT9TxPU0"
-    },
-    {
-      "artist": "Natasha Bedingfield",
-      "title": "Pocketful of Sunshine",
-      "youtube_url": "https://www.youtube.com/watch?v=gte3BoXKwP0"
-    },
-    {
-      "artist": "City Girls ft. Cardi B",
-      "title": "Twerk",
-      "youtube_url": "https://www.youtube.com/watch?v=QryoOF5jEbc"
-    },
-    {
-      "artist": "Pitbull ft. Ne-Yo, Afrojack & Nayer",
-      "title": "Give Me Everything",
-      "youtube_url": "https://www.youtube.com/watch?v=EPo5wWmKEaI"
-    },
-    {
-      "artist": "Doechii",
-      "title": "Persuasive",
-      "youtube_url": "https://www.youtube.com/watch?v=JUBqJzLPjXE"
-    },
-    {
-      "artist": "Zedd ft. Foxes",
-      "title": "Clarity",
-      "youtube_url": "https://www.youtube.com/watch?v=IxxstCcJlsc"
+      "artist": "Mike Mosallam",
+      "title": "Breaking Fast (2020)",
+      "youtube_url": "https://www.youtube.com/watch?v=ttycXWUad6s"
     }
   ],
-  "message": "https://www.youtube.com/watch?v=xiZUf98A1Ts\nhttps://www.youtube.com/watch?v=978iHuFKfS4\nhttps://www.youtube.com/watch?v=GMFewiplIbw\nhttps://www.youtube.com/watch?v=LPgvNlrBfb0\nhttps://www.youtube.com/watch?v=U2waT9TxPU0\nhttps://www.youtube.com/watch?v=gte3BoXKwP0\nhttps://www.youtube.com/watch?v=QryoOF5jEbc\nhttps://www.youtube.com/watch?v=EPo5wWmKEaI\nhttps://www.youtube.com/watch?v=JUBqJzLPjXE\nhttps://www.youtube.com/watch?v=IxxstCcJlsc"
+  "message": "https://www.youtube.com/watch?v=hpqBXLfgKoY\nhttps://www.youtube.com/watch?v=ttycXWUad6s"
 }
