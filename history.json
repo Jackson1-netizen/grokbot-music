@@ -2738,5 +2738,60 @@
         "youtube_url": "https://www.youtube.com/watch?v=MVDJxMxzTL0"
       }
     ]
+  },
+  {
+    "date": "2026-11-14",
+    "songs": [
+      {
+        "artist": "Lauv",
+        "title": "I Like Me Better",
+        "youtube_url": "https://www.youtube.com/watch?v=BcqxLCWn-CE"
+      },
+      {
+        "artist": "Mabel",
+        "title": "Don't Call Me Up",
+        "youtube_url": "https://www.youtube.com/watch?v=9TQKyDD9Yig"
+      },
+      {
+        "artist": "JoJo",
+        "title": "Leave (Get Out)",
+        "youtube_url": "https://www.youtube.com/watch?v=PLhphe6dC60"
+      },
+      {
+        "artist": "Jack Harlow",
+        "title": "First Class",
+        "youtube_url": "https://www.youtube.com/watch?v=yQBImEeXNZ4"
+      },
+      {
+        "artist": "Ashanti",
+        "title": "Foolish",
+        "youtube_url": "https://www.youtube.com/watch?v=gUPrnu3BEU8"
+      },
+      {
+        "artist": "Ella Mai",
+        "title": "Boo'd Up",
+        "youtube_url": "https://www.youtube.com/watch?v=6YNZlXfW6Ho"
+      },
+      {
+        "artist": "Rema",
+        "title": "Calm Down",
+        "youtube_url": "https://www.youtube.com/watch?v=CQLsdm1ZYAw"
+      },
+      {
+        "artist": "Gracie Abrams",
+        "title": "I Love You, I'm Sorry",
+        "youtube_url": "https://www.youtube.com/watch?v=uxjhN_Donfw"
+      },
+      {
+        "artist": "Ayra Starr",
+        "title": "Rush",
+        "youtube_url": "https://www.youtube.com/watch?v=crtQSTYWtqE"
+      },
+      {
+        "artist": "Tyga",
+        "title": "Rack City",
+        "youtube_url": "https://www.youtube.com/watch?v=AE3yia1AJeQ"
+      }
+    ]
   }
 ]
