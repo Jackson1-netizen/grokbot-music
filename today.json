@@ -1,57 +1,17 @@
 {
   "send": "yes",
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "songs": [
     {
-      "artist": "R3HAB & Sofia Carson",
-      "title": "Rumors",
-      "youtube_url": "https://www.youtube.com/watch?v=2uPxtX92CRc"
+      "artist": "Vincent Gagliostro",
+      "title": "After Louie (2017)",
+      "youtube_url": "https://www.youtube.com/watch?v=njby8f3HeSE"
     },
     {
-      "artist": "Jhené Aiko",
-      "title": "The Worst",
-      "youtube_url": "https://www.youtube.com/watch?v=6dvp6gVpA9A"
-    },
-    {
-      "artist": "Shygirl",
-      "title": "TASTY",
-      "youtube_url": "https://www.youtube.com/watch?v=wEFd5tdX5FQ"
-    },
-    {
-      "artist": "KATSEYE",
-      "title": "Gabriela",
-      "youtube_url": "https://www.youtube.com/watch?v=CjnB56tSCQI"
-    },
-    {
-      "artist": "Rae Sremmurd ft. Gucci Mane",
-      "title": "Black Beatles",
-      "youtube_url": "https://www.youtube.com/watch?v=b8m9zhNAgKs"
-    },
-    {
-      "artist": "Kylie Minogue",
-      "title": "Padam Padam",
-      "youtube_url": "https://www.youtube.com/watch?v=p6Cnazi_Fi0"
-    },
-    {
-      "artist": "Hayley Kiyoko",
-      "title": "Girls Like Girls",
-      "youtube_url": "https://www.youtube.com/watch?v=I0MT8SwNa_U"
-    },
-    {
-      "artist": "Sexyy Red",
-      "title": "Get It Sexyy",
-      "youtube_url": "https://www.youtube.com/watch?v=hUE6Haw_3zg"
-    },
-    {
-      "artist": "Bhad Bhabie ft. Lil Yachty",
-      "title": "Gucci Flip Flops",
-      "youtube_url": "https://www.youtube.com/watch?v=tsp7IOr7Q9A"
-    },
-    {
-      "artist": "Jessie Murph ft. Jelly Roll",
-      "title": "Wild Ones",
-      "youtube_url": "https://www.youtube.com/watch?v=MVDJxMxzTL0"
+      "artist": "Ian Liberatore",
+      "title": "All-American Boy (2020)",
+      "youtube_url": "https://www.youtube.com/watch?v=0xCJodHRSl8"
     }
   ],
-  "message": "https://www.youtube.com/watch?v=2uPxtX92CRc\nhttps://www.youtube.com/watch?v=6dvp6gVpA9A\nhttps://www.youtube.com/watch?v=wEFd5tdX5FQ\nhttps://www.youtube.com/watch?v=CjnB56tSCQI\nhttps://www.youtube.com/watch?v=b8m9zhNAgKs\nhttps://www.youtube.com/watch?v=p6Cnazi_Fi0\nhttps://www.youtube.com/watch?v=I0MT8SwNa_U\nhttps://www.youtube.com/watch?v=hUE6Haw_3zg\nhttps://www.youtube.com/watch?v=tsp7IOr7Q9A\nhttps://www.youtube.com/watch?v=MVDJxMxzTL0"
+  "message": "https://www.youtube.com/watch?v=njby8f3HeSE\nhttps://www.youtube.com/watch?v=0xCJodHRSl8"
 }
