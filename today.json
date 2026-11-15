@@ -1,57 +1,17 @@
 {
   "send": "yes",
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "songs": [
     {
-      "artist": "Lauv",
-      "title": "I Like Me Better",
-      "youtube_url": "https://www.youtube.com/watch?v=BcqxLCWn-CE"
+      "artist": "Anthony Bawn",
+      "title": "H.I.M (2017)",
+      "youtube_url": "https://www.youtube.com/watch?v=MMOkGH7bDbg"
     },
     {
-      "artist": "Mabel",
-      "title": "Don't Call Me Up",
-      "youtube_url": "https://www.youtube.com/watch?v=9TQKyDD9Yig"
-    },
-    {
-      "artist": "JoJo",
-      "title": "Leave (Get Out)",
-      "youtube_url": "https://www.youtube.com/watch?v=PLhphe6dC60"
-    },
-    {
-      "artist": "Jack Harlow",
-      "title": "First Class",
-      "youtube_url": "https://www.youtube.com/watch?v=yQBImEeXNZ4"
-    },
-    {
-      "artist": "Ashanti",
-      "title": "Foolish",
-      "youtube_url": "https://www.youtube.com/watch?v=gUPrnu3BEU8"
-    },
-    {
-      "artist": "Ella Mai",
-      "title": "Boo'd Up",
-      "youtube_url": "https://www.youtube.com/watch?v=6YNZlXfW6Ho"
-    },
-    {
-      "artist": "Rema",
-      "title": "Calm Down",
-      "youtube_url": "https://www.youtube.com/watch?v=CQLsdm1ZYAw"
-    },
-    {
-      "artist": "Gracie Abrams",
-      "title": "I Love You, I'm Sorry",
-      "youtube_url": "https://www.youtube.com/watch?v=uxjhN_Donfw"
-    },
-    {
-      "artist": "Ayra Starr",
-      "title": "Rush",
-      "youtube_url": "https://www.youtube.com/watch?v=crtQSTYWtqE"
-    },
-    {
-      "artist": "Tyga",
-      "title": "Rack City",
-      "youtube_url": "https://www.youtube.com/watch?v=AE3yia1AJeQ"
+      "artist": "Stephen Cone",
+      "title": "The Wise Kids (2011)",
+      "youtube_url": "https://www.youtube.com/watch?v=earK6D31ts8"
     }
   ],
-  "message": "https://www.youtube.com/watch?v=BcqxLCWn-CE\nhttps://www.youtube.com/watch?v=9TQKyDD9Yig\nhttps://www.youtube.com/watch?v=PLhphe6dC60\nhttps://www.youtube.com/watch?v=yQBImEeXNZ4\nhttps://www.youtube.com/watch?v=gUPrnu3BEU8\nhttps://www.youtube.com/watch?v=6YNZlXfW6Ho\nhttps://www.youtube.com/watch?v=CQLsdm1ZYAw\nhttps://www.youtube.com/watch?v=uxjhN_Donfw\nhttps://www.youtube.com/watch?v=crtQSTYWtqE\nhttps://www.youtube.com/watch?v=AE3yia1AJeQ"
+  "message": "https://www.youtube.com/watch?v=MMOkGH7bDbg\nhttps://www.youtube.com/watch?v=earK6D31ts8"
 }
