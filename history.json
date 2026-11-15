@@ -2793,5 +2793,60 @@
         "youtube_url": "https://www.youtube.com/watch?v=AE3yia1AJeQ"
       }
     ]
+  },
+  {
+    "date": "2026-11-15",
+    "songs": [
+      {
+        "artist": "Reneé Rapp & Megan Thee Stallion",
+        "title": "Not My Fault",
+        "youtube_url": "https://www.youtube.com/watch?v=C_kPDIXBCWQ"
+      },
+      {
+        "artist": "Kreayshawn",
+        "title": "Gucci Gucci",
+        "youtube_url": "https://www.youtube.com/watch?v=6WJFjXtHcy4"
+      },
+      {
+        "artist": "Dove Cameron",
+        "title": "Boyfriend",
+        "youtube_url": "https://www.youtube.com/watch?v=SOn3_0Oav0k"
+      },
+      {
+        "artist": "Maroon 5 ft. Christina Aguilera",
+        "title": "Moves Like Jagger",
+        "youtube_url": "https://www.youtube.com/watch?v=iEPTlhBmwRg"
+      },
+      {
+        "artist": "Christina Perri",
+        "title": "Jar of Hearts",
+        "youtube_url": "https://www.youtube.com/watch?v=8v_4O44sfjM"
+      },
+      {
+        "artist": "Addison Rae",
+        "title": "Diet Pepsi",
+        "youtube_url": "https://www.youtube.com/watch?v=Hki6RqI-eMA"
+      },
+      {
+        "artist": "Summer Walker & Bryson Tiller",
+        "title": "Playing Games",
+        "youtube_url": "https://www.youtube.com/watch?v=SDSXLkD74KE"
+      },
+      {
+        "artist": "Alessia Cara",
+        "title": "Scars to Your Beautiful",
+        "youtube_url": "https://www.youtube.com/watch?v=MWASeaYuHZo"
+      },
+      {
+        "artist": "Coi Leray ft. Lil Durk",
+        "title": "No More Parties (Remix)",
+        "youtube_url": "https://www.youtube.com/watch?v=my2ZvqmPaco"
+      },
+      {
+        "artist": "Lola Young",
+        "title": "Messy",
+        "youtube_url": "https://www.youtube.com/watch?v=k-k2_Liofy8"
+      }
+    ]
   }
 ]
