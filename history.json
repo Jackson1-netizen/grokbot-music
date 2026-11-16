@@ -2848,5 +2848,60 @@
         "youtube_url": "https://www.youtube.com/watch?v=k-k2_Liofy8"
       }
     ]
+  },
+  {
+    "date": "2026-11-16",
+    "songs": [
+      {
+        "artist": "Kehlani",
+        "title": "CRZY",
+        "youtube_url": "https://www.youtube.com/watch?v=2d7U4CX0PHk"
+      },
+      {
+        "artist": "Sam Smith & Normani",
+        "title": "Dancing With A Stranger",
+        "youtube_url": "https://www.youtube.com/watch?v=av5JD1dfj_c"
+      },
+      {
+        "artist": "Saucy Santana",
+        "title": "Material Girl",
+        "youtube_url": "https://www.youtube.com/watch?v=3inBqhSSYk0"
+      },
+      {
+        "artist": "Ne-Yo",
+        "title": "So Sick",
+        "youtube_url": "https://www.youtube.com/watch?v=IxszlJppRQI"
+      },
+      {
+        "artist": "Jessie Reyez ft. 6LACK",
+        "title": "Imported",
+        "youtube_url": "https://www.youtube.com/watch?v=uOYj7WfJQD8"
+      },
+      {
+        "artist": "Kelis",
+        "title": "Milkshake",
+        "youtube_url": "https://www.youtube.com/watch?v=6AwXKJoKJz4"
+      },
+      {
+        "artist": "Dua Lipa",
+        "title": "Hallucinate",
+        "youtube_url": "https://www.youtube.com/watch?v=qcZ7e9EOQTY"
+      },
+      {
+        "artist": "Flo Rida ft. Ke$ha",
+        "title": "Right Round",
+        "youtube_url": "https://www.youtube.com/watch?v=CcCw1ggftuQ"
+      },
+      {
+        "artist": "Coco Jones",
+        "title": "ICU",
+        "youtube_url": "https://www.youtube.com/watch?v=rtfyUvIYaKw"
+      },
+      {
+        "artist": "Lorde",
+        "title": "Green Light",
+        "youtube_url": "https://www.youtube.com/watch?v=dMK_npDG12Q"
+      }
+    ]
   }
 ]
