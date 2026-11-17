@@ -2903,5 +2903,60 @@
         "youtube_url": "https://www.youtube.com/watch?v=dMK_npDG12Q"
       }
     ]
+  },
+  {
+    "date": "2026-11-17",
+    "songs": [
+      {
+        "artist": "Sabrina Carpenter",
+        "title": "Juno (Official Lyric Video)",
+        "youtube_url": "https://www.youtube.com/watch?v=1aMCVgRKcP4"
+      },
+      {
+        "artist": "Pardison Fontaine ft. Cardi B",
+        "title": "Backin' It Up",
+        "youtube_url": "https://www.youtube.com/watch?v=hDfsD6G8E_g"
+      },
+      {
+        "artist": "Charli xcx",
+        "title": "Speed Drive",
+        "youtube_url": "https://www.youtube.com/watch?v=y7jzzvKxgZ8"
+      },
+      {
+        "artist": "Rihanna ft. Drake",
+        "title": "Work",
+        "youtube_url": "https://www.youtube.com/watch?v=HL1UzIK-flA"
+      },
+      {
+        "artist": "Ariana Grande",
+        "title": "bye (lyric visualizer)",
+        "youtube_url": "https://www.youtube.com/watch?v=PlaiDnJyabE"
+      },
+      {
+        "artist": "Tate McRae",
+        "title": "Sports car",
+        "youtube_url": "https://www.youtube.com/watch?v=7InTkBxPtK4"
+      },
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "bad idea right? (Official Video)",
+        "youtube_url": "https://www.youtube.com/watch?v=Dj9qJsJTsjQ"
+      },
+      {
+        "artist": "Beyoncé",
+        "title": "TEXAS HOLD 'EM (Official Visualizer)",
+        "youtube_url": "https://www.youtube.com/watch?v=238Z4YaAr1g"
+      },
+      {
+        "artist": "Ice Spice",
+        "title": "Gimmie A Light",
+        "youtube_url": "https://www.youtube.com/watch?v=2KC-8IULfqY"
+      },
+      {
+        "artist": "Nicki Minaj",
+        "title": "Red Ruby Da Sleeze (Official Video)",
+        "youtube_url": "https://www.youtube.com/watch?v=QBGX9QirWaU"
+      }
+    ]
   }
 ]
