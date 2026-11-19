@@ -1,57 +1,7 @@
 {
-  "send": "yes",
-  "date": "2026-11-18",
-  "songs": [
-    {
-      "artist": "Anitta",
-      "title": "Boys Don't Cry",
-      "youtube_url": "https://www.youtube.com/watch?v=PkzJgGZBFDg"
-    },
-    {
-      "artist": "Ludacris ft. Shawnna",
-      "title": "Stand Up",
-      "youtube_url": "https://www.youtube.com/watch?v=pZG7IK99OvI"
-    },
-    {
-      "artist": "David Guetta, Bebe Rexha & J Balvin",
-      "title": "Say My Name",
-      "youtube_url": "https://www.youtube.com/watch?v=ft4jcPSLJfY"
-    },
-    {
-      "artist": "Kali Uchis",
-      "title": "telepatía",
-      "youtube_url": "https://www.youtube.com/watch?v=bn_p95HbHoQ"
-    },
-    {
-      "artist": "Jazmine Sullivan",
-      "title": "Need U Bad",
-      "youtube_url": "https://www.youtube.com/watch?v=HiFqIVQNM4I"
-    },
-    {
-      "artist": "Billie Eilish",
-      "title": "LUNCH",
-      "youtube_url": "https://www.youtube.com/watch?v=MB3VkzPdgLA"
-    },
-    {
-      "artist": "Shawn Mendes & Camila Cabello",
-      "title": "Señorita",
-      "youtube_url": "https://www.youtube.com/watch?v=Pkh8UtuejGw"
-    },
-    {
-      "artist": "Saweetie",
-      "title": "ICY GRL",
-      "youtube_url": "https://www.youtube.com/watch?v=Wji4b2jjYOk"
-    },
-    {
-      "artist": "Chappell Roan",
-      "title": "Casual (Official Music Video)",
-      "youtube_url": "https://www.youtube.com/watch?v=AfSjnsYiY_A"
-    },
-    {
-      "artist": "Summer Walker",
-      "title": "Girls Need Love",
-      "youtube_url": "https://www.youtube.com/watch?v=1l8vIAvAerE"
-    }
-  ],
-  "message": "https://www.youtube.com/watch?v=PkzJgGZBFDg\nhttps://www.youtube.com/watch?v=pZG7IK99OvI\nhttps://www.youtube.com/watch?v=ft4jcPSLJfY\nhttps://www.youtube.com/watch?v=bn_p95HbHoQ\nhttps://www.youtube.com/watch?v=HiFqIVQNM4I\nhttps://www.youtube.com/watch?v=MB3VkzPdgLA\nhttps://www.youtube.com/watch?v=Pkh8UtuejGw\nhttps://www.youtube.com/watch?v=Wji4b2jjYOk\nhttps://www.youtube.com/watch?v=AfSjnsYiY_A\nhttps://www.youtube.com/watch?v=1l8vIAvAerE"
+  "send": "no",
+  "date": "2026-11-19",
+  "songs": [],
+  "message": "",
+  "reason": "Daily movies were not safely prepared."
 }
