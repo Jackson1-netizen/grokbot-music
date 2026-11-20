@@ -1,57 +1,7 @@
 {
-  "send": "yes",
-  "date": "2026-11-19",
-  "songs": [
-    {
-      "artist": "Sabrina Carpenter",
-      "title": "Bed Chem",
-      "youtube_url": "https://www.youtube.com/watch?v=x8VkB8ap_FQ"
-    },
-    {
-      "artist": "Taylor Swift",
-      "title": "Bejeweled",
-      "youtube_url": "https://www.youtube.com/watch?v=b7QlX3yR2xs"
-    },
-    {
-      "artist": "Nicki Minaj ft. Ariana Grande",
-      "title": "Bed",
-      "youtube_url": "https://www.youtube.com/watch?v=zxtl5ExJmag"
-    },
-    {
-      "artist": "Selena Gomez",
-      "title": "Single Soon",
-      "youtube_url": "https://www.youtube.com/watch?v=yOuqn4w1ozA"
-    },
-    {
-      "artist": "Lady Gaga",
-      "title": "Applause",
-      "youtube_url": "https://www.youtube.com/watch?v=pco91kroVgQ"
-    },
-    {
-      "artist": "Dua Lipa",
-      "title": "Hotter Than Hell",
-      "youtube_url": "https://www.youtube.com/watch?v=fEOyePhElr4"
-    },
-    {
-      "artist": "Lizzo",
-      "title": "Boys",
-      "youtube_url": "https://www.youtube.com/watch?v=HQliEKPg1Qk"
-    },
-    {
-      "artist": "Rihanna",
-      "title": "Needed Me",
-      "youtube_url": "https://www.youtube.com/watch?v=wfN4PVaOU5Q"
-    },
-    {
-      "artist": "Doja Cat",
-      "title": "Demons",
-      "youtube_url": "https://www.youtube.com/watch?v=qwtyEKTGGQ8"
-    },
-    {
-      "artist": "Ciara",
-      "title": "Like a Boy",
-      "youtube_url": "https://www.youtube.com/watch?v=_HKH7Emy1SY"
-    }
-  ],
-  "message": "https://www.youtube.com/watch?v=x8VkB8ap_FQ\nhttps://www.youtube.com/watch?v=b7QlX3yR2xs\nhttps://www.youtube.com/watch?v=zxtl5ExJmag\nhttps://www.youtube.com/watch?v=yOuqn4w1ozA\nhttps://www.youtube.com/watch?v=pco91kroVgQ\nhttps://www.youtube.com/watch?v=fEOyePhElr4\nhttps://www.youtube.com/watch?v=HQliEKPg1Qk\nhttps://www.youtube.com/watch?v=wfN4PVaOU5Q\nhttps://www.youtube.com/watch?v=qwtyEKTGGQ8\nhttps://www.youtube.com/watch?v=_HKH7Emy1SY"
+  "send": "no",
+  "date": "2026-11-20",
+  "songs": [],
+  "message": "",
+  "reason": "Daily movies were not safely prepared."
 }
