@@ -3068,5 +3068,60 @@
         "youtube_url": "https://www.youtube.com/watch?v=_HKH7Emy1SY"
       }
     ]
+  },
+  {
+    "date": "2026-11-20",
+    "songs": [
+      {
+        "artist": "Gwen Stefani",
+        "title": "What You Waiting For?",
+        "youtube_url": "https://www.youtube.com/watch?v=f5qICl3Fr3w"
+      },
+      {
+        "artist": "Jennifer Lopez ft. Pitbull",
+        "title": "Dance Again",
+        "youtube_url": "https://www.youtube.com/watch?v=bjgFH01k0gU"
+      },
+      {
+        "artist": "Jorja Smith ft. Burna Boy",
+        "title": "Be Honest",
+        "youtube_url": "https://www.youtube.com/watch?v=hQsZUVMwEls"
+      },
+      {
+        "artist": "Addison Rae",
+        "title": "Headphones On",
+        "youtube_url": "https://www.youtube.com/watch?v=XdFpzaM07i0"
+      },
+      {
+        "artist": "Troye Sivan",
+        "title": "One of Your Girls",
+        "youtube_url": "https://www.youtube.com/watch?v=ZhGl8McrOHo"
+      },
+      {
+        "artist": "RAYE ft. 070 Shake",
+        "title": "Escapism.",
+        "youtube_url": "https://www.youtube.com/watch?v=Dll6VJ2C7wo"
+      },
+      {
+        "artist": "Shenseea ft. Megan Thee Stallion",
+        "title": "Lick",
+        "youtube_url": "https://www.youtube.com/watch?v=R6jzbvIua08"
+      },
+      {
+        "artist": "Ellie Goulding",
+        "title": "Starry Eyed",
+        "youtube_url": "https://www.youtube.com/watch?v=fBf2v4mLM8k"
+      },
+      {
+        "artist": "Bebe Rexha ft. Travis Barker",
+        "title": "Break My Heart Myself",
+        "youtube_url": "https://www.youtube.com/watch?v=gEUmYOD-G54"
+      },
+      {
+        "artist": "Latto",
+        "title": "Brokey",
+        "youtube_url": "https://www.youtube.com/watch?v=-HXRhd40u_o"
+      }
+    ]
   }
 ]
