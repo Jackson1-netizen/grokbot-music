@@ -3123,5 +3123,60 @@
         "youtube_url": "https://www.youtube.com/watch?v=-HXRhd40u_o"
       }
     ]
+  },
+  {
+    "date": "2026-11-21",
+    "songs": [
+      {
+        "artist": "Cher Lloyd ft. Astro",
+        "title": "Want U Back",
+        "youtube_url": "https://www.youtube.com/watch?v=inwAc-ZBpx0"
+      },
+      {
+        "artist": "Becky Hill & David Guetta",
+        "title": "Remember",
+        "youtube_url": "https://www.youtube.com/watch?v=NhCxrUEW3PM"
+      },
+      {
+        "artist": "Natti Natasha ft. Ozuna",
+        "title": "Criminal",
+        "youtube_url": "https://www.youtube.com/watch?v=VqEbCxg2bNI"
+      },
+      {
+        "artist": "Leona Lewis",
+        "title": "Bleeding Love",
+        "youtube_url": "https://www.youtube.com/watch?v=7_weSk0BonM"
+      },
+      {
+        "artist": "Sexyy Red",
+        "title": "Get It Sexyy",
+        "youtube_url": "https://www.youtube.com/watch?v=VpXRPrwezQ8"
+      },
+      {
+        "artist": "Meghan Trainor",
+        "title": "Me Too",
+        "youtube_url": "https://www.youtube.com/watch?v=qDRORgoZxZU"
+      },
+      {
+        "artist": "Kash Doll",
+        "title": "Ice Me Out",
+        "youtube_url": "https://www.youtube.com/watch?v=6Rj2IABk0eI"
+      },
+      {
+        "artist": "Jess Glynne",
+        "title": "Hold My Hand",
+        "youtube_url": "https://www.youtube.com/watch?v=cLyUcAUMmMY"
+      },
+      {
+        "artist": "Jason Derulo ft. Snoop Dogg",
+        "title": "Wiggle",
+        "youtube_url": "https://www.youtube.com/watch?v=hiP14ED28CA"
+      },
+      {
+        "artist": "Jordin Sparks ft. Chris Brown",
+        "title": "No Air",
+        "youtube_url": "https://www.youtube.com/watch?v=WBKnpyoFEBo"
+      }
+    ]
   }
 ]
