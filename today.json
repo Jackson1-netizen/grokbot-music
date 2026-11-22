@@ -1,7 +1,57 @@
 {
-  "send": "no",
+  "send": "yes",
   "date": "2026-11-22",
-  "songs": [],
-  "message": "",
-  "reason": "Daily movies were not safely prepared."
+  "songs": [
+    {
+      "artist": "Dua Lipa ft. DaBaby",
+      "title": "Levitating",
+      "youtube_url": "https://www.youtube.com/watch?v=TUVcZfQe-Kw"
+    },
+    {
+      "artist": "Doechii",
+      "title": "Anxiety",
+      "youtube_url": "https://www.youtube.com/watch?v=riCP9x31Kuk"
+    },
+    {
+      "artist": "Miley Cyrus",
+      "title": "Flowers",
+      "youtube_url": "https://www.youtube.com/watch?v=G7KNmW9a75Y"
+    },
+    {
+      "artist": "Cardi B, Bad Bunny & J Balvin",
+      "title": "I Like It",
+      "youtube_url": "https://www.youtube.com/watch?v=xTlNMmZKwpA"
+    },
+    {
+      "artist": "Kesha",
+      "title": "TiK ToK",
+      "youtube_url": "https://www.youtube.com/watch?v=iP6XpLQM2Cs"
+    },
+    {
+      "artist": "Ariana Grande",
+      "title": "thank u, next",
+      "youtube_url": "https://www.youtube.com/watch?v=gl1aHhXnN1k"
+    },
+    {
+      "artist": "Lady Gaga",
+      "title": "Poker Face",
+      "youtube_url": "https://www.youtube.com/watch?v=bESGLojNYSo"
+    },
+    {
+      "artist": "Sabrina Carpenter",
+      "title": "Espresso",
+      "youtube_url": "https://www.youtube.com/watch?v=eVli-tstM5E"
+    },
+    {
+      "artist": "Ice Spice & Nicki Minaj",
+      "title": "Princess Diana",
+      "youtube_url": "https://www.youtube.com/watch?v=gMq-I0dejjE"
+    },
+    {
+      "artist": "Rihanna ft. JAY-Z",
+      "title": "Umbrella",
+      "youtube_url": "https://www.youtube.com/watch?v=CvBfHwUxHIk"
+    }
+  ],
+  "message": "https://www.youtube.com/watch?v=TUVcZfQe-Kw\nhttps://www.youtube.com/watch?v=riCP9x31Kuk\nhttps://www.youtube.com/watch?v=G7KNmW9a75Y\nhttps://www.youtube.com/watch?v=xTlNMmZKwpA\nhttps://www.youtube.com/watch?v=iP6XpLQM2Cs\nhttps://www.youtube.com/watch?v=gl1aHhXnN1k\nhttps://www.youtube.com/watch?v=bESGLojNYSo\nhttps://www.youtube.com/watch?v=eVli-tstM5E\nhttps://www.youtube.com/watch?v=gMq-I0dejjE\nhttps://www.youtube.com/watch?v=CvBfHwUxHIk"
 }
