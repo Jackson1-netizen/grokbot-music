@@ -3233,5 +3233,60 @@
         "youtube_url": "https://www.youtube.com/watch?v=CvBfHwUxHIk"
       }
     ]
+  },
+  {
+    "date": "2026-11-23",
+    "songs": [
+      {
+        "artist": "Sexyy Red",
+        "title": "Pound Town (Spring Break Edition)",
+        "youtube_url": "https://www.youtube.com/watch?v=Agp7tDPbk0o"
+      },
+      {
+        "artist": "Doja Cat",
+        "title": "Say So",
+        "youtube_url": "https://www.youtube.com/watch?v=uAYG46w1SCA"
+      },
+      {
+        "artist": "Ice Spice & Central Cee",
+        "title": "Did It First",
+        "youtube_url": "https://www.youtube.com/watch?v=N2neoYs8niw"
+      },
+      {
+        "artist": "Miley Cyrus",
+        "title": "We Can't Stop",
+        "youtube_url": "https://www.youtube.com/watch?v=KzKLd9p4x3w"
+      },
+      {
+        "artist": "Latto ft. Cardi B",
+        "title": "Put It On Da Floor Again",
+        "youtube_url": "https://www.youtube.com/watch?v=-WtNCR3EDS4"
+      },
+      {
+        "artist": "Muni Long",
+        "title": "Hrs and Hrs",
+        "youtube_url": "https://www.youtube.com/watch?v=uDlIjqoNxlI"
+      },
+      {
+        "artist": "Megan Thee Stallion",
+        "title": "Savage",
+        "youtube_url": "https://www.youtube.com/watch?v=EOxj2ROIxok"
+      },
+      {
+        "artist": "Gracie Abrams",
+        "title": "That's So True",
+        "youtube_url": "https://www.youtube.com/watch?v=BDHM8cyJQa8"
+      },
+      {
+        "artist": "Nicki Minaj",
+        "title": "Anaconda",
+        "youtube_url": "https://www.youtube.com/watch?v=17O3lL1aUrg"
+      },
+      {
+        "artist": "Natasha Bedingfield",
+        "title": "Unwritten",
+        "youtube_url": "https://www.youtube.com/watch?v=b7k0a5hYnSI"
+      }
+    ]
   }
 ]
