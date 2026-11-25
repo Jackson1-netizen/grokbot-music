@@ -1,57 +1,7 @@
 {
-  "send": "yes",
-  "date": "2026-11-24",
-  "songs": [
-    {
-      "artist": "Olivia Dean",
-      "title": "Man I Need",
-      "youtube_url": "https://www.youtube.com/watch?v=oIv_Y2RPQ_A"
-    },
-    {
-      "artist": "Little Mix",
-      "title": "Touch",
-      "youtube_url": "https://www.youtube.com/watch?v=gBAfejjUQoA"
-    },
-    {
-      "artist": "Becky G & KAROL G",
-      "title": "MAMIII",
-      "youtube_url": "https://www.youtube.com/watch?v=flL8ZMqIWGA"
-    },
-    {
-      "artist": "Kehlani",
-      "title": "Honey",
-      "youtube_url": "https://www.youtube.com/watch?v=_wVB6pfWwnE"
-    },
-    {
-      "artist": "Jason Derulo ft. Nicki Minaj & Ty Dolla $ign",
-      "title": "Swalla",
-      "youtube_url": "https://www.youtube.com/watch?v=NGLxoKOvzu4"
-    },
-    {
-      "artist": "Madison Beer",
-      "title": "make you mine",
-      "youtube_url": "https://www.youtube.com/watch?v=XFR7v5ix5hU"
-    },
-    {
-      "artist": "Rihanna ft. Justin Timberlake",
-      "title": "Rehab",
-      "youtube_url": "https://www.youtube.com/watch?v=rJYcmq__nDM"
-    },
-    {
-      "artist": "Fifth Harmony",
-      "title": "BO$$",
-      "youtube_url": "https://www.youtube.com/watch?v=Y4JfPlry-iQ"
-    },
-    {
-      "artist": "Britney Spears",
-      "title": "Piece of Me",
-      "youtube_url": "https://www.youtube.com/watch?v=u4FF6MpcsRw"
-    },
-    {
-      "artist": "Selena Gomez & Marshmello",
-      "title": "Wolves",
-      "youtube_url": "https://www.youtube.com/watch?v=cH4E_t3m3xM"
-    }
-  ],
-  "message": "https://www.youtube.com/watch?v=oIv_Y2RPQ_A\nhttps://www.youtube.com/watch?v=gBAfejjUQoA\nhttps://www.youtube.com/watch?v=flL8ZMqIWGA\nhttps://www.youtube.com/watch?v=_wVB6pfWwnE\nhttps://www.youtube.com/watch?v=NGLxoKOvzu4\nhttps://www.youtube.com/watch?v=XFR7v5ix5hU\nhttps://www.youtube.com/watch?v=rJYcmq__nDM\nhttps://www.youtube.com/watch?v=Y4JfPlry-iQ\nhttps://www.youtube.com/watch?v=u4FF6MpcsRw\nhttps://www.youtube.com/watch?v=cH4E_t3m3xM"
+  "send": "no",
+  "date": "2026-11-25",
+  "songs": [],
+  "message": "",
+  "reason": "Daily movies were not safely prepared."
 }
