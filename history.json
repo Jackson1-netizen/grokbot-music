@@ -3398,5 +3398,60 @@
         "youtube_url": "https://www.youtube.com/watch?v=EVIJUH29pjU"
       }
     ]
+  },
+  {
+    "date": "2026-11-26",
+    "songs": [
+      {
+        "artist": "Cher Lloyd",
+        "title": "Swagger Jagger",
+        "youtube_url": "https://www.youtube.com/watch?v=sdbyG2MrBHk"
+      },
+      {
+        "artist": "Tinashe",
+        "title": "All Hands on Deck",
+        "youtube_url": "https://www.youtube.com/watch?v=kxUdFQ6N_OI"
+      },
+      {
+        "artist": "Lady Gaga",
+        "title": "Bad Romance",
+        "youtube_url": "https://www.youtube.com/watch?v=qrO4YZeyl0I"
+      },
+      {
+        "artist": "Anne-Marie",
+        "title": "Ciao Adios",
+        "youtube_url": "https://www.youtube.com/watch?v=qqob4D3BoZc"
+      },
+      {
+        "artist": "Lizzo",
+        "title": "Truth Hurts",
+        "youtube_url": "https://www.youtube.com/watch?v=P00HMxdsVZI"
+      },
+      {
+        "artist": "Ciara",
+        "title": "Body Party",
+        "youtube_url": "https://www.youtube.com/watch?v=B9rSBcoX9ak"
+      },
+      {
+        "artist": "Victoria Monét ft. Lucky Daye",
+        "title": "Smoke",
+        "youtube_url": "https://www.youtube.com/watch?v=cD0dy_1FsT0"
+      },
+      {
+        "artist": "Ellie Goulding",
+        "title": "Anything Could Happen",
+        "youtube_url": "https://www.youtube.com/watch?v=5hzgS9s-tE8"
+      },
+      {
+        "artist": "Kelly Rowland ft. Lil Wayne",
+        "title": "Motivation",
+        "youtube_url": "https://www.youtube.com/watch?v=s1XozsBN5Z4"
+      },
+      {
+        "artist": "Zara Larsson",
+        "title": "Ain't My Fault",
+        "youtube_url": "https://www.youtube.com/watch?v=eC-F_VZ2T1c"
+      }
+    ]
   }
 ]
