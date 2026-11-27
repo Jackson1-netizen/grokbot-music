@@ -1,57 +1,17 @@
 {
   "send": "yes",
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "songs": [
     {
-      "artist": "Cher Lloyd",
-      "title": "Swagger Jagger",
-      "youtube_url": "https://www.youtube.com/watch?v=sdbyG2MrBHk"
+      "artist": "Christopher Clarke",
+      "title": "Pickled Henry (2025)",
+      "youtube_url": "https://www.youtube.com/watch?v=mxf9_FUPyMc"
     },
     {
-      "artist": "Tinashe",
-      "title": "All Hands on Deck",
-      "youtube_url": "https://www.youtube.com/watch?v=kxUdFQ6N_OI"
-    },
-    {
-      "artist": "Jessie J",
-      "title": "Who You Are",
-      "youtube_url": "https://www.youtube.com/watch?v=j2WWrupMBAE"
-    },
-    {
-      "artist": "Anne-Marie",
-      "title": "Ciao Adios",
-      "youtube_url": "https://www.youtube.com/watch?v=qqob4D3BoZc"
-    },
-    {
-      "artist": "Fergie ft. Q-Tip & GoonRock",
-      "title": "A Little Party Never Killed Nobody (All We Got)",
-      "youtube_url": "https://www.youtube.com/watch?v=0ZgjmE6xdaw"
-    },
-    {
-      "artist": "Ciara",
-      "title": "Body Party",
-      "youtube_url": "https://www.youtube.com/watch?v=B9rSBcoX9ak"
-    },
-    {
-      "artist": "Victoria Monét ft. Lucky Daye",
-      "title": "Smoke",
-      "youtube_url": "https://www.youtube.com/watch?v=cD0dy_1FsT0"
-    },
-    {
-      "artist": "Ellie Goulding",
-      "title": "Anything Could Happen",
-      "youtube_url": "https://www.youtube.com/watch?v=5hzgS9s-tE8"
-    },
-    {
-      "artist": "Kelly Rowland ft. Lil Wayne",
-      "title": "Motivation",
-      "youtube_url": "https://www.youtube.com/watch?v=s1XozsBN5Z4"
-    },
-    {
-      "artist": "Zara Larsson",
-      "title": "Ain't My Fault",
-      "youtube_url": "https://www.youtube.com/watch?v=eC-F_VZ2T1c"
+      "artist": "Breaking Glass Pictures (licensor)",
+      "title": "Hold Your Peace (2011)",
+      "youtube_url": "https://www.youtube.com/watch?v=ZtRrRkspJtQ"
     }
   ],
-  "message": "https://www.youtube.com/watch?v=sdbyG2MrBHk\nhttps://www.youtube.com/watch?v=kxUdFQ6N_OI\nhttps://www.youtube.com/watch?v=j2WWrupMBAE\nhttps://www.youtube.com/watch?v=qqob4D3BoZc\nhttps://www.youtube.com/watch?v=0ZgjmE6xdaw\nhttps://www.youtube.com/watch?v=B9rSBcoX9ak\nhttps://www.youtube.com/watch?v=cD0dy_1FsT0\nhttps://www.youtube.com/watch?v=5hzgS9s-tE8\nhttps://www.youtube.com/watch?v=s1XozsBN5Z4\nhttps://www.youtube.com/watch?v=eC-F_VZ2T1c"
+  "message": "https://www.youtube.com/watch?v=mxf9_FUPyMc\nhttps://www.youtube.com/watch?v=ZtRrRkspJtQ"
 }
