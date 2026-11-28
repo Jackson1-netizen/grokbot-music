@@ -3508,5 +3508,60 @@
         "youtube_url": "https://www.youtube.com/watch?v=h9Se_2mvWec"
       }
     ]
+  },
+  {
+    "date": "2026-11-28",
+    "songs": [
+      {
+        "artist": "Latto",
+        "title": "Big Energy",
+        "youtube_url": "https://www.youtube.com/watch?v=T8GpG8C0YzA"
+      },
+      {
+        "artist": "Jhené Aiko ft. H.E.R.",
+        "title": "B.S.",
+        "youtube_url": "https://www.youtube.com/watch?v=DsR2d6EMLdw"
+      },
+      {
+        "artist": "Doechii & SZA",
+        "title": "Persuasive",
+        "youtube_url": "https://www.youtube.com/watch?v=ES9CqKPkdeU"
+      },
+      {
+        "artist": "Megan Thee Stallion",
+        "title": "Body",
+        "youtube_url": "https://www.youtube.com/watch?v=7PBYGu4Az8s"
+      },
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "good 4 u",
+        "youtube_url": "https://www.youtube.com/watch?v=gNi_6U5Pm_o"
+      },
+      {
+        "artist": "Billie Eilish",
+        "title": "bad guy",
+        "youtube_url": "https://www.youtube.com/watch?v=DyDfgMOUjCI"
+      },
+      {
+        "artist": "Flo Rida",
+        "title": "Good Feeling",
+        "youtube_url": "https://www.youtube.com/watch?v=3OnnDqH6Wj8"
+      },
+      {
+        "artist": "Nicki Minaj",
+        "title": "Super Bass",
+        "youtube_url": "https://www.youtube.com/watch?v=4JipHEz53sU"
+      },
+      {
+        "artist": "Cardi B",
+        "title": "Bodak Yellow",
+        "youtube_url": "https://www.youtube.com/watch?v=PEGccV-NOm8"
+      },
+      {
+        "artist": "Lady Gaga",
+        "title": "Bad Romance",
+        "youtube_url": "https://www.youtube.com/watch?v=qrO4YZeyl0I"
+      }
+    ]
   }
 ]
